@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="zhaolin.jpg" class="floatpic">
 
 Here is **Zhaolin Wei (Clark, 魏召霖)**.<br>
 
@@ -26,4 +26,3 @@ If you are interested in any aspect of me, I am always open to discussions and c
 My current work focuses on practical problems that artificial intelligence faces in real life. My interests are on the Machine Learning and its applications in Industrial IoT. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
-<br>
