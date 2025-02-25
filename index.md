@@ -3,20 +3,6 @@ layout: default
 title: About Me
 ---
 
-<nav>
-  <ul>
-    <li><a href="{{ site.baseurl }}/">Home</a></li>
-    <li><a href="{{ site.baseurl }}/publications/">Publications</a></li>
-    <li><a href="{{ site.baseurl }}/awards/">Awards</a></li>
-    <li><a href="{{ site.baseurl }}/hobbies/">Hobbies</a></li>
-    <li><a href="{{ site.baseurl }}/blogs/">Blogs</a></li>
-  </ul>
-</nav>
-
-<header>
-  <h1>About Me</h1>
-</header>
-
 <section>
   <img src="{{ site.baseurl }}/images/zhaolin.JPG" class="floatpic" alt="Zhaolin Wei">
 
