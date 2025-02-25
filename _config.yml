@@ -13,7 +13,7 @@ owner:
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: ZhaolinWei-Clark
-  linkedin: Zhaolin (Clark) Wei
+  linkedin: Zhaolin Wei
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -45,7 +45,7 @@ links:
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: America/Los Angeles
 future: true
 highlighter: rouge
 # markdown: kramdown
