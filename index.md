@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="zhaolin.jpg" class="floatpic">
+<img src="/images/zhaolin.JPG" class="floatpic">
 
 Here is **Zhaolin Wei (Clark, 魏召霖)**.<br>
 
