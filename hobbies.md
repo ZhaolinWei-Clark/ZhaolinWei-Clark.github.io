@@ -20,8 +20,8 @@ If you’re also in Vancouver and interested in soccer and music feel free to co
 ## Music
 
 <div class="third">
-<img src="/images/20231117.JPG">
-<img src="/images/DSC05516.JPG">
+<img src="/images/speech1.JPG">
+<img src="/images/speech3.JPG">
 <img src="/images/DSC01753.JPEG">
 </div>
 <br>There must be something truly magical about performing on the stage.
