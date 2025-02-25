@@ -12,7 +12,7 @@ owner:
   avatar: zhaolin.jpg
   bio: zhaolin.jpg
   email: ziulam1005@gmail.com
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: https://zhaolinwei-clark.github.io/file/Resume.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: ZhaolinWei-Clark
   linkedin: Zhaolin Wei
@@ -80,4 +80,4 @@ disqus:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/12/10 by Hanlin Cai.
+# Latest update in 2025/2/25
