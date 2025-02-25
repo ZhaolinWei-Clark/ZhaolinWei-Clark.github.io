@@ -13,9 +13,9 @@ title: About Me
     advised by <a href="https://ioe.eng.cam.ac.uk/directory/akan">Prof. Steve</a>, within 
     <a href="https://ioe.eng.cam.ac.uk/">Internet of Everything (IoE) Group</a>. I also spent a lovely 
     summer research program with <a href="https://www.cl.cam.ac.uk/~pl219/">Prof. Pietro Liò</a> at 
-    <a href="https://www.cl.cam.ac.uk/research/ai/">Artificial Intelligence Group</a>. Prior to Cambridge, 
-    I have worked on System Engineering, Cybersecurity and Wireless Communication with 
-    <a href="https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN">Prof. Zhezhuang Xu</a> 
+    <a href="https://www.cl.cam.ac.uk/research/ai/">Artificial Intelligence Group</a>. Prior to UBC, 
+    I have worked on soft robots ,sensors and actuators with 
+    <a href="https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN">Prof. Junwen Zhong</a> 
     and <a href="https://myuan27.github.io/">Dr. Meng Yuan</a>. Recently, I was honored to be selected as 
     <strong>AAAI-2024 and KDD-2024 Undergraduate Scholars</strong>.
   </p>
