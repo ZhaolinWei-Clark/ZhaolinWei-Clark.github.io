@@ -15,9 +15,8 @@ title: About Me
     summer research program with <a href="https://www.cl.cam.ac.uk/~pl219/">Prof. Pietro Liò</a> at 
     <a href="https://www.cl.cam.ac.uk/research/ai/">Artificial Intelligence Group</a>. Prior to UBC, 
     I have worked on soft robots ,sensors and actuators with 
-    <a href="https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN">Prof. Junwen Zhong</a> 
-    and <a href="https://myuan27.github.io/">Dr. Meng Yuan</a>. Recently, I was honored to be selected as 
-    <strong>AAAI-2024 and KDD-2024 Undergraduate Scholars</strong>.
+    <a href="https://scholar.google.com/citations?user=AYU2uIoAAAAJ&hl=en">Prof. Junwen Zhong</a> . 
+    Recently, I was honored to be selected as <strong>AAAI-2024 and KDD-2024 Undergraduate Scholars</strong>.
   </p>
 
   <p>If you are interested in any aspect of me, I am always open to discussions and collaborations. 
