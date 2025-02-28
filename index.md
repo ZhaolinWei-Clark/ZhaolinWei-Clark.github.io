@@ -10,13 +10,13 @@ title: About Me
 
   <p>
     I am a master student in the Mechatronics Design program at the University of British Columbia, 
-    advised by <a href="https://ioe.eng.cam.ac.uk/directory/akan">Prof. Steve</a>, within 
-    <a href="https://ioe.eng.cam.ac.uk/">Internet of Everything (IoE) Group</a>. I also spent a lovely 
-    summer research program with <a href="https://www.cl.cam.ac.uk/~pl219/">Prof. Pietro Liò</a> at 
-    <a href="https://www.cl.cam.ac.uk/research/ai/">Artificial Intelligence Group</a>. Prior to UBC, 
+    advised by <a href="https://scholar.google.com/citations?user=bcv5q2gAAAAJ&hl=en">Prof. Xiaoliang Jin</a>, within 
+    <a href="https://amp.mech.ubc.ca/">Advanced Manufacturing Processes Laboratory (AMP)</a>. I also spent lovely days
+     with <a href="">Prof. Ryozo Nagamune</a> at 
+    <a href="https://cel.mech.ubc.ca/">Control Engineering Laboratory (CEL)</a>. Prior to UBC, 
     I have worked on soft robots, sensors and actuators with 
-    <a href="https://scholar.google.com/citations?user=AYU2uIoAAAAJ&hl=en">Prof. Junwen Zhong</a> . 
-    Recently, I was honored to be selected as <strong>AAAI-2024 and KDD-2024 Undergraduate Scholars</strong>.
+    <a href="https://scholar.google.com/citations?user=AYU2uIoAAAAJ&hl=en">Prof. Junwen Zhong at Centre for Artificial Intelligence and Robotics</a> . 
+    Recently, I was honored to be selected as <strong>Undergraduate Scholars</strong>.
   </p>
 
   <p>If you are interested in any aspect of me, I am always open to discussions and collaborations. 
@@ -31,8 +31,7 @@ title: About Me
 <section>
   <h2>Interests</h2>
   <ul>
-    <li><a href="https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything">Internet of Everything</a></li>
-    <li>Robotics</li>
+    <li><a href="https://scholar.google.com.co/citations?view_op=search_authors&hl=en&mauthors=label:robotics">Robotics</li>
     <li>Manufacture</li>
     <li>AI in Industry</li>
     <li>CAD/CAM</li>
