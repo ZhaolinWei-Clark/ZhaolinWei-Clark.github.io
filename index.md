@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <section>
-  <img src="{{ site.baseurl }}/images/hanlin.JPG" class="floatpic" alt="Zhaolin Wei">
+  <img src="{{ site.baseurl }}/images/zhaolin.JPG" class="floatpic" alt="Zhaolin Wei">
 
   <p>Here is <strong>Zhaolin Wei (Clark, 魏召霖)</strong>.</p>
 
