@@ -6,7 +6,7 @@ title: Publications
 
 ## Degree Thesis
 
-- [Self-powered Flexible Electromechanical Sensors for Personal Health Evaluation](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Zhaolin Wei** (Supervisor: Junwen Zhong).<br> Soft Sensors-Actuators-Robots Laboratory
+- [Self-powered Flexible Electromechanical Sensors for Personal Health Evaluation](https://zhaolinwei-clark.github.io/mypaper/thesis/final-project-report.pdf)<br>**Zhaolin Wei** (Supervisor: Junwen Zhong).<br> Soft Sensors-Actuators-Robots Laboratory
 柔性傳感器-執行器-機器人實驗室<br>
 
   <br>
