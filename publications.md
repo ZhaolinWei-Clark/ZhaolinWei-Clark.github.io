@@ -19,6 +19,5 @@ title: Publications
 
 - Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Zhaolin Wei**, Zheng Li, Jiaqi Hu, Wei Hong Lim,  Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
 
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Zhaolin Wei**, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
+- Old-fashioned Sewing Machine Solidworks Model<br>*Second-year course design.*<br>**Zhaolin Wei**, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>
   <br>
