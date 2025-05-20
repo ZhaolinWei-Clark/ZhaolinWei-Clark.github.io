@@ -13,7 +13,7 @@ title: Publications
 
 ---
 
-## Early Project
+## Project
 
 - [Self-powered Flexible Electromechanical Sensors for Personal Health Evaluation](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Zhaolin Wei** (Supervisor: Junwen Zhong)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Undergraduate Consortium.<br>Macau, China, 2024.
 
