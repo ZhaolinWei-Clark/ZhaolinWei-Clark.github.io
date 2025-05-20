@@ -32,7 +32,7 @@ title: About Me
   <h2>Interests</h2>
   <ul>
     <li><a href="https://scholar.google.com.co/citations?view_op=search_authors&hl=en&mauthors=label:robotics"> 
-    Robotics</li>
+    Robotics
     <li>Manufacture</li>
     <li>AI in Industry</li>
     <li>CAD/CAM</li>
