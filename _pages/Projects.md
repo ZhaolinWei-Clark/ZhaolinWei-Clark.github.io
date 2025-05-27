@@ -1,5 +1,5 @@
 ---
-permalink: /projects/
+permalink: /Projects/
 title: "Projects"
 ---
 
@@ -13,10 +13,11 @@ title: "Projects"
 ---
 
 ## Project
+- [Temperature Monitoring for Laser-based Directed Energy Deposition Process]()
+- [Electromagnetic Calculation Program for DC Permanent Magnet Motors](https://github.com/ZhaolinWei-Clark/Theoretical-calculation-of-permanent-magnet-motor-.git)
+- [Self-powered Flexible Electromechanical Sensors for Personal Health Evaluation](https://zhaolinwei-clark.github.io/mypaper/thesis/final-project-report.pdf)<br>*Final year project (FYP).*<br>**Zhaolin Wei** (Supervisor: Junwen Zhong)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Undergraduate Consortium.<br>Macau, China, 2024.
 
-- [Self-powered Flexible Electromechanical Sensors for Personal Health Evaluation](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Zhaolin Wei** (Supervisor: Junwen Zhong)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Undergraduate Consortium.<br>Macau, China, 2024.
+- Automated Warehouse Management System<br>*Junior-year course design.*<br>**Zhaolin Wei**, Haoyuan Jiang, Kushal Sedhai<br>This project designed the Automated Warehouse Management System (AWMS), an advanced software platform intended to simulate and manage warehouse operations using autonomous robots. <br>
 
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Zhaolin Wei**, Zheng Li, Jiaqi Hu, Wei Hong Lim,  Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- Old-fashioned Sewing Machine Solidworks Model<br>*Second-year course design.*<br>**Zhaolin Wei**, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>
+- Old-fashioned Sewing Machine Solidworks Model<br>*Fourth-year Course design.*<br>**Zhaolin Wei**, Junyi Li<br>
   <br>
