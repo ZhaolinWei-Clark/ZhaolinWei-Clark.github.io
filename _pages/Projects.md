@@ -3,6 +3,20 @@ permalink: /projects/
 title: "Projects"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Degree Thesis
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+- [Self-powered Flexible Electromechanical Sensors for Personal Health Evaluation](https://zhaolinwei-clark.github.io/mypaper/thesis/final-project-report.pdf)<br>**Zhaolin Wei** (Supervisor: Junwen Zhong).<br> Soft Sensors-Actuators-Robots Laboratory
+柔性傳感器-執行器-機器人實驗室<br>
+
+  <br>
+
+---
+
+## Project
+
+- [Self-powered Flexible Electromechanical Sensors for Personal Health Evaluation](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Zhaolin Wei** (Supervisor: Junwen Zhong)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Undergraduate Consortium.<br>Macau, China, 2024.
+
+- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Zhaolin Wei**, Zheng Li, Jiaqi Hu, Wei Hong Lim,  Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
+
+- Old-fashioned Sewing Machine Solidworks Model<br>*Second-year course design.*<br>**Zhaolin Wei**, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>
+  <br>
