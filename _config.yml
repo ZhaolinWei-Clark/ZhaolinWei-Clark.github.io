@@ -77,7 +77,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-      cv: https://zhaolinwei-clark.github.io/file/Resume.pdf
+      label: "Resume"
+      url: https://zhaolinwei-clark.github.io/file/Resume.pdf
     
 
 footer:
