@@ -16,7 +16,7 @@ If you’re also in Vancouver and interested in soccer and music feel free to co
   <img src="/images/surfing1.JPG" style="width: 32%;">
 </div>
 
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
+<br>Running helps me clear my mind, energizes my body, and gives me the confidence to tackle any challenges. I truly enjoy the exhilaration of being active. Additionally, I was the captain of the soccer team at Henry Fok Pearl Jubilee College, where I made many genuine friendships. During my athletic career, I participated in the athletics competition at the University of Macau and won the championship in the Sunshine Group. Recently, I have also developed an interest in surfing and climbing.
 
 ## Music
 
