@@ -14,7 +14,7 @@ author_profile: true
     I am a master student in the Mechatronics Design program at the University of British Columbia, 
     advised by <a href="https://scholar.google.com/citations?user=bcv5q2gAAAAJ&hl=en">Prof. Xiaoliang Jin</a>, within 
     <a href="https://amp.mech.ubc.ca/">Advanced Manufacturing Processes Laboratory (AMP)</a>. I also spent lovely days
-     with <a href="">Prof. Ryozo Nagamune</a> at 
+     with <a href="https://mech.ubc.ca/ryozo-nagamune/">Prof. Ryozo Nagamune</a> at 
     <a href="https://cel.mech.ubc.ca/">Control Engineering Laboratory (CEL)</a>. Prior to UBC, 
     I have worked on soft robots, sensors and actuators with 
     <a href="https://scholar.google.com/citations?user=AYU2uIoAAAAJ&hl=en">Prof. Junwen Zhong at Centre for Artificial Intelligence and Robotics</a> . 
