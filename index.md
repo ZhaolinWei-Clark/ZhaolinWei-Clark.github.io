@@ -28,3 +28,16 @@ author_profile: true
   If you have any information, please contact me. Thank you!</span></strong></p>
 </section>
 
+<hr>
+
+<section>
+  <h2>Interests</h2>
+  <ul>
+    <li><a href="https://scholar.google.com.co/citations?view_op=search_authors&hl=en&mauthors=label:robotics"> 
+    Robotics
+    <li>Manufacture</li>
+    <li>AI in Industry</li>
+    <li>CAD/CAM</li>
+  </ul>
+  <p>My current work focuses on practical problems that artificial intelligence faces in real life. My interests are in Machine Learning and its applications in Industrial IoT. In a word, advanced technologies like ML and IoT positively influence the life of everybody. I wish to devote my talent to this meaningful cause and bring well-being to society.</p>
+</section>
