@@ -17,7 +17,6 @@ title: Blogs
 
 <br>
 
-{% include disqus.html %} 
 
 
 <br>[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
