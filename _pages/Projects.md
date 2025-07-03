@@ -23,5 +23,5 @@ title: "Projects"
 - Automated Warehouse Management System<br>*Course design, UBC*<br>**Zhaolin Wei**, Haoyuan Jiang, Kushal Sedhai <br>
 
 - Old-fashioned Sewing Machine Solidworks Model<br>*Fourth-year Course design.*<br>**Zhaolin Wei**, Junyi Li<br>
-  ![Solidworks Demonstration](images/best-tech.jpg)
+  ![Solidworks Demonstration](images/solidworks_sewing machine.png)
 
