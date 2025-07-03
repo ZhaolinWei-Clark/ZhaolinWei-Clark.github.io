@@ -20,11 +20,11 @@ author_profile: true
     <a href="https://scholar.google.com/citations?user=AYU2uIoAAAAJ&hl=en">Prof. Junwen Zhong at Centre for Artificial Intelligence and Robotics</a> . 
   </p>
 
-  <p>If you are interested in any aspect of me, I am always open to discussions and collaborations. 
-  Feel free to reach out to me at - <strong>zhaolinw@student.ubc.ca</strong></p>
+  <p>If you are interested in any aspect of me, I am always open to discussions and collaborations.
+  Feel free to reach out to me at - <strong>zhaolinw@student.ubc.ca</strong> or <strong>ziulam1005@gmail.com</strong></p>
 
   <p><strong><span style="color:#990000;">I am actively seeking an Engineering Position for 2025 Fall. 
-  If you have any information, please contact me. Thank you!</span></strong></p>
+  If you have any information, welcome to connect. Thank you!</span></strong></p>
 </section>
 
 <hr>
