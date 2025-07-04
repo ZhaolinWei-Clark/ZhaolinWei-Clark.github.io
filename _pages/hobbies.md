@@ -3,7 +3,6 @@ permalink: /hobbies/
 title: Hobbies
 ---
 
-# Hobbies
 
 If you’re also in Vancouver and interested in soccer and music feel free to contact me!
 

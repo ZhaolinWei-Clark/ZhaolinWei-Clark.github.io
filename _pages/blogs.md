@@ -3,8 +3,6 @@ permalink: /blogs/
 title: Blogs
 ---
 
-## Blogs 博客
-
 ### 2021
 
 - [在安阳一中就读是什么体验](https://www.zhihu.com/question/27437055/answer/1972846228)
