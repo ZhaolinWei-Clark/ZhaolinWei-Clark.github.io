@@ -6,7 +6,7 @@ title: "Projects"
 ## Degree Thesis
 
 - [Temperature Monitoring for Laser-based Directed Energy Deposition Process](https://zhaolinwei-clark.github.io/mypaper/thesis/UBC_Thesis_ZhaolinWei_8928347__improved.pdf)<br>**Zhaolin Wei** (Supervisor: Ryozo Nagamune & Xiaoliang Jin).<br> Control Engineering Laboratory (CEL) & Advanced Manufacturing Processes Laboratory (AMP)<br>
-- <img src="/images/additivie set up.jpeg" alt="Solidworks Demonstration" width="400" height="300">
+- <img src="/images/additivie set up.jpeg" alt="Metal Additive Demonstration" width="400" height="300">
 - [Self-powered Flexible Electromechanical Sensors for Personal Health Evaluation](https://zhaolinwei-clark.github.io/mypaper/thesis/final-project-report.pdf)<br>**Zhaolin Wei** (Supervisor: Junwen Zhong).<br> Soft Sensors-Actuators-Robots Laboratory 柔性傳感器-執行器-機器人實驗室<br>
 
   <br>
