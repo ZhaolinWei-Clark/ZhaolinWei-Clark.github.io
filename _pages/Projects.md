@@ -24,13 +24,13 @@ title: "Projects"
 **Zhaolin Wei**, Haoyuan Jiang, Kushal Sedhai <br>
 <small>A sophisticated simulation platform for warehouse operations management. It provides a two-dimensional environment where users can define warehouse parameters, manage items and robots, and execute automated tasks through an intuitive graphical interface.</small>
 
+- Arduino-Based Smart Cup Heater
+  This project built an Arduino-controlled cup heater with a user-selectable setpoint between 10–80°C via a button interface and real-time LCD readout. We calibrated the temperature sensor to correct measurement offset versus actual water temperature and refined the control code, achieving accurate heating to the desired temperature with clear on-device feedback.
+ <div class="third">
+  <img src="/images/Poster Assembly Picture.png" style="width: 32%; margin-right: 1%;">
+  <img src="/images/Poster Explorsion Veiw.png" style="width: 32%; margin-right: 1%;">
+ </div>
 
 - Old-fashioned Sewing Machine Solidworks Model<br>*Fourth-year Course design.*<br>**Zhaolin Wei**, Junyi Li<br>
   <img src="/images/solidworks_sewing%20machine.png" alt="Solidworks Demonstration" width="400" height="300">
 
-- Arduino-Based Smart Cup Heater
-  This project built an Arduino-controlled cup heater with a user-selectable setpoint between 10–80°C via a button interface and real-time LCD readout. We calibrated the temperature sensor to correct measurement offset versus actual water temperature and refined the control code, achieving accurate heating to the desired temperature with clear on-device feedback.
-<div class="third">
-  <img src="/images/Poster Assembly Picture.png" style="width: 32%; margin-right: 1%;">
-  <img src="/images/Poster Explorsion Veiw.png" style="width: 32%; margin-right: 1%;">
-</div>
