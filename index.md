@@ -4,38 +4,76 @@ author_profile: true
 ---
 
 <style>
-  .bio-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    align-items: flex-start;
+  /* 全局容器优化 */
+  .modern-container {
+    display: grid;
+    grid-template-columns: 2.2fr 1fr; /* 调整比例，给文字更多空间 */
+    gap: 40px;
+    margin-top: 20px;
+    line-height: 1.7; /* 增加行高，看起来更高级 */
+    color: #333;
   }
-  .bio-text {
-    flex: 2; /* 占据更多比例 */
-    min-width: 300px;
-    text-align: justify; /* 两端对齐 */
+
+  /* 左侧文字区 */
+  .bio-content {
+    text-align: justify;
     text-justify: inter-word;
   }
-  .bio-sidebar {
-    flex: 1; /* 占据右侧空间 */
-    min-width: 250px;
-    background-color: #f9f9f9;
-    padding: 20px;
-    border-radius: 8px;
-    border-left: 4px solid #990000;
+
+  .bio-content strong {
+    color: #000;
   }
-  .skill-tag {
-    display: inline-block;
-    background: #eee;
-    padding: 2px 8px;
-    margin: 3px;
-    border-radius: 4px;
+
+  /* 右侧技能树优化 */
+  .skills-sidebar {
+    border-left: 1px solid #eee; /* 改为极细的浅灰色线 */
+    padding-left: 25px;
+    font-size: 0.9em;
+  }
+
+  .skill-group {
+    margin-bottom: 20px;
+  }
+
+  .skill-group-title {
+    font-weight: bold;
+    color: #990000; /* 保持 UBC 红作为点缀 */
+    text-transform: uppercase;
+    letter-spacing: 1px;
     font-size: 0.85em;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+  }
+
+  /* 技能标签微调 */
+  .tag {
+    display: inline-block;
+    background: #f0f4f8; /* 极浅的蓝灰色，更有科技感 */
+    color: #444;
+    padding: 2px 10px;
+    margin: 4px 2px;
+    border-radius: 3px;
+    font-weight: 500;
+  }
+
+  /* 移动端自适应 */
+  @media (max-width: 768px) {
+    .modern-container {
+      grid-template-columns: 1fr;
+      gap: 20px;
+    }
+    .skills-sidebar {
+      border-left: none;
+      border-top: 1px solid #eee;
+      padding-left: 0;
+      padding-top: 20px;
+    }
   }
 </style>
 
-<div class="bio-container">
-  <div class="bio-text">
+<div class="modern-container">
+  <div class="bio-content">
     <p>Hello, I am <strong>Zhaolin Wei (Clark, 魏召霖)</strong>.</p>
 
     <p>
@@ -47,8 +85,7 @@ author_profile: true
       During my graduate studies, I was advised by <a href="https://scholar.google.com/citations?user=bcv5q2gAAAAJ&hl=en">Prof. Xiaoliang Jin</a> at the 
       <a href="https://amp.mech.ubc.ca/">Advanced Manufacturing Processes Laboratory (AMP)</a>, where I <strong>optimized manufacturing workflows</strong> to reduce material waste by 30%. 
       I also collaborated with <a href="https://mech.ubc.ca/ryozo-nagamune/">Prof. Ryozo Nagamune</a> at the 
-      <a href="https://cel.mech.ubc.ca/">Control Engineering Laboratory (CEL)</a> on advanced control systems. 
-      Previously, I developed soft robotic actuators and sensors with <a href="https://scholar.google.com/citations?user=AYU2uIoAAAAJ&hl=en">Prof. Junwen Zhong</a>.
+      <a href="https://cel.mech.ubc.ca/">Control Engineering Laboratory (CEL)</a>.
     </p>
 
     <p>
@@ -57,27 +94,36 @@ author_profile: true
     </p>
   </div>
 
-  <div class="bio-sidebar">
-    <h3 style="margin-top: 0;">🛠️ Tech Stack</h3>
-    <p><strong>Design:</strong><br>
-      <span class="skill-tag">SolidWorks</span> <span class="skill-tag">AutoCAD</span> <span class="skill-tag">Revit</span> <span class="skill-tag">GD&T</span>
-    </p>
-    <p><strong>Programming:</strong><br>
-      <span class="skill-tag">Python</span> <span class="skill-tag">MATLAB</span> <span class="skill-tag">C++</span>
-    </p>
-    <p><strong>Fabrication:</strong><br>
-      <span class="skill-tag">CNC Machining</span> <span class="skill-tag">3D Printing</span> <span class="skill-tag">Waterjet</span>
-    </p>
-    <p><strong>Credentials:</strong><br>
-      <span class="skill-tag">E.I.T. (EGBC)</span> <span class="skill-tag">UBC Master's</span>
-    </p>
+  <div class="skills-sidebar">
+    <div class="skill-group">
+      <div class="skill-group-title">🛠️ Design & Drafting</div>
+      <span class="tag">SolidWorks</span> <span class="tag">AutoCAD</span> 
+      <span class="tag">Revit</span> <span class="tag">GD&T</span>
+    </div>
+
+    <div class="skill-group">
+      <div class="skill-group-title">💻 Programming</div>
+      <span class="tag">Python</span> <span class="tag">MATLAB</span> 
+      <span class="tag">C++</span> <span class="tag">Data Analysis</span>
+    </div>
+
+    <div class="skill-group">
+      <div class="skill-group-title">⚙️ Fabrication</div>
+      <span class="tag">CNC Machining</span> <span class="tag">3D Printing</span> 
+      <span class="tag">Waterjet</span> <span class="tag">Lathe/Mill</span>
+    </div>
+
+    <div class="skill-group">
+      <div class="skill-group-title">🎓 Credentials</div>
+      <span class="tag">E.I.T. (EGBC)</span> <span class="tag">UBC Master's</span>
+    </div>
   </div>
 </div>
 
-<section>
-  <p>If you are looking for a mechatronics engineer who can bridge the gap between complex CAD models and physical prototypes, let’s connect.</p>
+<section style="margin-top: 30px;">
+  <p>If you are looking for a mechatronics engineer who can bridge the gap between CAD models and physical prototypes, let’s connect.</p>
   <p>Feel free to reach out: <strong>zhaolinw@student.ubc.ca</strong> or <strong>ziulam1005@gmail.com</strong></p>
-  <p><strong><span style="color:#990000;">I am actively seeking an Engineering Position in Robotics, Mechanical Design, or Test Engineering. Let's build the future together!</span></strong></p>
+  <p><strong><span style="color:#990000;">I am actively seeking Engineering Positions in Robotics, Mechanical Design, or Test Engineering.</span></strong></p>
 </section>
 
 <hr>
