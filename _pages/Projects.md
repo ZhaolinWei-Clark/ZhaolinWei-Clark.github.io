@@ -1,175 +1,106 @@
 ---
-layout: single
-author_profile: true
+permalink: /projects/
+title: "Projects"
 ---
 
 <style>
-  /* 1. 强制页面拉宽：突破主题限制 */
-  .page {
-    width: 100% !important;
-    max-width: 1100px !important;
-    margin: 0 auto !important;
-  }
-  .page__content {
-    width: 100% !important;
-  }
-
-  /* 2. 苹果风全局字体与间距 */
-  .apple-style {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    color: #1d1d1f;
+  /* 强制所有项目描述两端对齐，并增加行高提升阅读体验 */
+  small {
+    display: block;
+    text-align: justify;
+    text-justify: inter-word;
     line-height: 1.6;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    color: #444;
   }
-
-  /* 3. 可折叠项目卡片样式 */
-  details {
-    background: #ffffff;
-    border: 1px solid #e5e5e7;
-    border-radius: 12px;
-    margin-bottom: 16px;
-    padding: 12px 20px;
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+  
+  /* 优化图片容器，防止图片紧贴文字 */
+  .img-container {
+    margin-top: 10px;
+    margin-bottom: 20px;
   }
-
-  details[open] {
-    box-shadow: 0 10px 20px rgba(0,0,0,0.05);
-    border-color: #d2d2d7;
-  }
-
-  summary {
-    list-style: none;
-    cursor: pointer;
-    font-weight: 600;
-    font-size: 1.1em;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    outline: none;
-  }
-
-  /* 自定义折叠箭头 */
-  summary::after {
-    content: '+';
-    font-size: 1.4em;
-    color: #86868b;
-    transition: transform 0.3s ease;
-  }
-
-  details[open] summary::after {
-    transform: rotate(45deg); /* 展开变叉号 */
-    color: #b82e2e;
-  }
-
-  .project-content {
-    padding-top: 20px;
-    color: #424245;
-    font-size: 0.95em;
-    border-top: 1px solid #f5f5f7;
-    margin-top: 15px;
-  }
-
-  /* 4. 简历式技能网格 */
-  .skills-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 15px;
-    margin: 40px 0;
-  }
-
-  .skill-card {
-    background: #f5f5f7;
-    padding: 15px;
-    border-radius: 10px;
-  }
-
-  .skill-card h4 {
-    margin: 0 0 10px 0;
-    font-size: 0.85em;
-    color: #86868b;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-  }
-
-  .tag {
-    display: inline-block;
-    background: #fff;
-    border: 1px solid #d2d2d7;
-    padding: 2px 8px;
-    margin: 2px;
-    border-radius: 4px;
-    font-size: 0.8em;
-  }
-
-  .highlight-red { color: #b82e2e; font-weight: 600; }
 </style>
 
-<div class="apple-style">
-  <section class="intro">
-    <h1 style="font-weight: 700; letter-spacing: -0.02em;">Zhaolin Wei (Clark)</h1>
-    <p style="font-size: 1.2em; color: #86868b;">Mechatronics Design | E.I.T. @ UBC</p>
-    
-    <p>I am a <strong>Master of Mechatronics Design</strong> graduate from UBC and a registered <strong>E.I.T.</strong> with EGBC. I focus on bridging the gap between high-precision mechanical design and automated systems—delivering <strong>"Engineering Intent"</strong> from concept to physical prototype.</p>
-  </section>
+## Degree Thesis
 
-  <div class="skills-grid">
-    <div class="skill-card">
-      <h4>🤖 Robotics & AI</h4>
-      <span class="tag">ROS2</span><span class="tag">OpenCV</span><span class="tag">PyTorch</span>
-    </div>
-    <div class="skill-card">
-      <h4>💻 Embedded Systems</h4>
-      <span class="tag">Python</span><span class="tag">Embedded C</span><span class="tag">ESP32</span><span class="tag">Git</span>
-    </div>
-    <div class="skill-card">
-      <h4>🏗️ Mechanical Design</h4>
-      <span class="tag">SolidWorks</span><span class="tag">GD&T</span><span class="tag">AutoCAD</span><span class="tag">Revit</span>
-    </div>
-    <div class="skill-card">
-      <h4>🏭 Manufacturing</h4>
-      <span class="tag">CNC</span><span class="tag">3D Printing</span><span class="tag">BOM</span><span class="tag">DFM</span>
-    </div>
+- [Temperature Monitoring for Laser-based Directed Energy Deposition Process](https://zhaolinwei-clark.github.io/mypaper/thesis/UBC_Thesis_ZhaolinWei_8928347__improved.pdf)<br>
+  **Zhaolin Wei** (Supervisor: Ryozo Nagamune & Xiaoliang Jin).<br> 
+  Control Engineering Laboratory (CEL) & Advanced Manufacturing Processes Laboratory (AMP)<br>
+  <small>
+    Investigated and implemented a closed-loop temperature monitoring system for Laser-based Directed Energy Deposition (L-DED). Developed a thermal control strategy to stabilize the melt pool temperature, ensuring consistent material deposition and reducing defects in additive manufacturing processes.
+  </small>
+  <div class="img-container">
+    <img src="/images/additivie set up.jpeg" alt="Metal Additive Demonstration" width="400" height="300">
   </div>
 
-  <h3 style="margin-bottom: 20px;">Featured Projects</h3>
+- [Self-powered Flexible Electromechanical Sensors for Personal Health Evaluation](https://zhaolinwei-clark.github.io/mypaper/thesis/final-project-report.pdf)<br>
+  **Zhaolin Wei** (Supervisor: Junwen Zhong).<br> 
+  Soft Sensors-Actuators-Robots Laboratory 柔性傳感器-執行器-機器人實驗室<br>
+  <small>
+    Developed novel self-powered flexible sensors capable of detecting subtle physiological signals (such as pulse and muscle movements) for personal health monitoring. The project focused on material synthesis, electromechanical characterization, and the integration of sensors into wearable devices.
+  </small>
 
-  <details>
-    <summary>Dual-Arm Mobile Robot Platform (AlohaMini)</summary>
-    <div class="project-content">
-      <p>Developing a low-cost, mobile dual-arm platform for dexterous manipulation tasks.</p>
-      <ul>
-        <li>Integrated high-torque actuators and sensors using <strong>ROS2</strong>.</li>
-        <li>Optimized 3D-printed structural components for weight reduction and rigidity.</li>
-      </ul>
-    </div>
-  </details>
+---
 
-  <details>
-    <summary>Precision Modeling: Old-fashioned Sewing Machine</summary>
-    <div class="project-content">
-      <p>A comprehensive 50+ component assembly designed in SolidWorks to validate tolerance stack-ups.</p>
-      <ul>
-        <li>Applied <strong>GD&T (ASME Y14.5)</strong> standards to ensure zero-rework assembly.</li>
-        <li>Conducted structural FEA to optimize kinematic linkage durability.</li>
-      </ul>
-    </div>
-  </details>
+## Projects
 
-  <details>
-    <summary>Facility Engineering @ Sands China</summary>
-    <div class="project-content">
-      <p>Managed technical documentation for large-scale facilities using AutoCAD and Revit.</p>
-      <ul>
-        <li>Maintained 100% data integrity for complex electrical and structural drafts.</li>
-        <li>Coordinated BIM data updates to reflect real-world site conditions.</li>
-      </ul>
-    </div>
-  </details>
+- **[Current] Low-Cost Dual-Arm Mobile Robot Platform (AlohaMini)**<br>
+  **Zhaolin Wei**<br>
+  <small>
+    Currently building a low-cost, teleoperated dual-arm mobile manipulator based on the open-source AlohaMini framework. The project involves full hardware integration, actuator control implementation, and data collection to validate imitation learning algorithms for household automation tasks.
+  </small>
 
-  <p style="margin-top: 40px;">
-    <span class="highlight-red">Actively seeking Engineering opportunities for 2026.</span><br>
-    Contact: <strong>zhaolinw@student.ubc.ca</strong>
-  </p>
-</div>
+- **Simulation and Control Optimization of BLDC Motor Drive Systems**<br>
+  *Academic Project*<br>
+  <small>
+    Developed a dynamic simulation model for Brushless DC (BLDC) motor drives using MATLAB/Simulink, incorporating Average Value Models (AVM) to significantly optimize computational efficiency. Designed and implemented a Maximum Torque Per Voltage (MTPV) control strategy by mathematically formulating the optimal voltage lead angle ($\phi_v$), maximizing high-speed torque output under voltage constraints.
+  </small>
 
-<hr>
+- **3D Surgical Instrument and Tissue Tracking System**<br>
+  *Academic Project*<br>
+  <small>
+    Built a real-time stereo vision tracking system using Python and OpenCV to capture 3D trajectories of surgical instruments and soft tissue. Integrated Lucas-Kanade optical flow with Shi-Tomasi corner detection and optimized pyramid layers, reducing tracking failure rates by 15% during rapid movements and achieving sub-pixel tracking accuracy (<0.8 pixels).
+  </small>
+
+- [Electromagnetic Calculation Program for DC Permanent Magnet Motors](https://github.com/ZhaolinWei-Clark/Theoretical-calculation-of-permanent-magnet-motor-.git)<br>
+  **Zhaolin Wei**<br>
+  <small>
+    Developed a Python-based computational tool to analyze the electromagnetic properties of DC permanent magnet motors. The program automates magnetic circuit calculations to predict motor performance, reducing the reliance on manual iterations and facilitating rapid preliminary design optimization.
+  </small>
+
+- [An Autonomous System for a Room HVAC system](https://github.com/ZhaolinWei-Clark/Autonomous-HVAC-System)<br>
+  Intern Project, Sands China.<br>
+  <small>
+    Designed an autonomous automation system for home HVAC systems, featuring an interactive GUI for monitoring and controlling HVAC components dynamically. The system optimized energy consumption while maintaining user comfort through real-time feedback loops.
+  </small>
+  <div class="img-container">
+    <img src="/images/HVAC.png" alt="GUI Demonstration" width="400" height="300">
+  </div>
+
+- [Automated Warehouse Management System](https://github.com/ZhaolinWei-Clark/Automated-Warehouse-Management-System)<br>
+  *Course design, UBC*<br>
+  **Zhaolin Wei**, Haoyuan Jiang, Kushal Sedhai <br>
+  <small>
+    Engineered a sophisticated simulation platform for warehouse operations management. It provides a two-dimensional environment where users can define warehouse parameters, manage items and robots, and execute automated tasks through an intuitive graphical interface.
+  </small>
+
+- **Arduino-Based Smart Cup Heater** <br>
+  *Course Design*<br>
+  <small>
+    Built an Arduino-controlled cup heater with a user-selectable setpoint between 10–80°C via a button interface and real-time LCD readout. Calibrated the temperature sensor to correct measurement offset versus actual water temperature and refined the control code, achieving accurate heating to the desired temperature with clear on-device feedback.
+  </small>
+  <div class="third">
+    <img src="/images/Poster Assembly Picture.PNG" style="width: 32%; margin-right: 1%;">
+    <img src="/images/Poster Explorsion Veiw.PNG" style="width: 32%; margin-right: 1%;">
+  </div>
+
+- **Old-fashioned Sewing Machine Solidworks Model**<br>
+  *Fourth-year Course design.*<br>
+  **Zhaolin Wei**, Junyi Li<br>
+  <small>
+    Modeled a fully functional vintage sewing machine assembly (50+ components) in SolidWorks. Performed comprehensive tolerance stack-up analysis and applied GD&T standards (ASME Y14.5) to ensure kinematic accuracy and manufacturability of the complex mechanical linkages.
+  </small>
+  <div class="img-container">
+    <img src="/images/solidworks_sewing%20machine.png" alt="Solidworks Demonstration" width="400" height="300">
+  </div>
