@@ -18,6 +18,7 @@ title: "Projects"
 - [Electromagnetic Calculation Program for DC Permanent Magnet Motors](https://github.com/ZhaolinWei-Clark/Theoretical-calculation-of-permanent-magnet-motor-.git)<br>**Zhaolin Wei**
 
 - [An Autonomous System for a Room HVAC system](https://github.com/ZhaolinWei-Clark/Autonomous-HVAC-System)<br>Intern Project, Sands China.<br><small> An autonomous automation system for home HVAC system, featuring an interactive GUI for monitoring and controlling HVAC components dynamically.</small>
+- <img src="/images/HVAC.png" alt="GUI Demonstration" width="400" height="300">
 
 - [Automated Warehouse Management System](https://github.com/ZhaolinWei-Clark/Automated-Warehouse-Management-System)<br>
 *Course design, UBC*<br>
