@@ -70,14 +70,24 @@ author:
         <strong style="color: #990000; font-size: 0.8em; text-transform: uppercase;">🛠️ Design & Drafting</strong><br>
         <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">SolidWorks</span>
         <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">AutoCAD</span>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">Inventor</span>
         <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">Revit</span>
         <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">GD&T</span>
+      </div>
+
+      <div style="margin-bottom: 10px;">
+        <strong style="color: #990000; font-size: 0.8em; text-transform: uppercase;"> 🤖 Robotics & AI</strong><br>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">ROS2</span>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">PyTorch</span>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">Inventor</span>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">OpenCV</span>
       </div>
 
       <div style="margin-bottom: 10px;">
         <strong style="color: #990000; font-size: 0.8em; text-transform: uppercase;">💻 Programming</strong><br>
         <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">Python</span>
         <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">MATLAB</span>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">Embedded C</span>
         <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">C++</span>
       </div>
 
