@@ -59,8 +59,39 @@ plugins:
 author:
   name   : "Zhaolin Wei"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Graduate Student at UBC, specializing in Mechatronics Design. 
-            Passionate about robotics, AI, and innovative engineering solutions."
+  # 重点在这里：我们将技能栈嵌入到了 Bio 里，位于文字介绍下方
+  bio    : >-
+    Graduate Student at UBC, specializing in Mechatronics Design. Passionate about robotics, AI, and innovative engineering solutions.
+    
+    <div style="margin-top: 15px; border-top: 1px solid #e0e0e0; padding-top: 15px; text-align: left;">
+      <div style="margin-bottom: 10px;">
+        <strong style="color: #990000; font-size: 0.8em; text-transform: uppercase;">🛠️ Design & Drafting</strong><br>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">SolidWorks</span>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">AutoCAD</span>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">Revit</span>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">GD&T</span>
+      </div>
+
+      <div style="margin-bottom: 10px;">
+        <strong style="color: #990000; font-size: 0.8em; text-transform: uppercase;">💻 Programming</strong><br>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">Python</span>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">MATLAB</span>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">C++</span>
+      </div>
+
+      <div style="margin-bottom: 10px;">
+        <strong style="color: #990000; font-size: 0.8em; text-transform: uppercase;">⚙️ Fabrication</strong><br>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">CNC</span>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">3D Print</span>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">Waterjet</span>
+      </div>
+
+      <div>
+        <strong style="color: #990000; font-size: 0.8em; text-transform: uppercase;">🎓 Credentials</strong><br>
+        <span style="font-size: 0.75em; background: #fff5f5; color: #990000; padding: 2px 5px; border-radius: 3px; border: 1px solid #ffcccc; display: inline-block; margin: 1px;">E.I.T. (EGBC)</span>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">UBC Master's</span>
+      </div>
+    </div>
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -68,16 +99,11 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/zhaolin-wei-82272b2b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXwq8ihPcQcq5fPOAKRbFNw%3D%3D"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-      label: "Resume"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-alt"
       url: https://zhaolinwei-clark.github.io/file/Resume.pdf
     
 
