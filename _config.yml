@@ -16,9 +16,7 @@
 title: Zhaolin Wei
 email: ziulam1005@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Mechatronics Engineer (E.I.T.) portfolio focusing on robotics, automation, and design.
 github_username: ZhaolinWei-Clark
 minimal_mistakes_skin: default
 search: true
@@ -59,10 +57,14 @@ plugins:
 author:
   name   : "Zhaolin Wei"
   avatar : "/assets/images/bio-photo.jpg"
-  # 重点在这里：我们将技能栈嵌入到了 Bio 里，位于文字介绍下方
+  # 这里使用了 >- 符号，允许我们嵌入 HTML 代码
+  # 1. 第一个 div 用于包裹文字，实现两端对齐 (text-align: justify)
+  # 2. 第二个 div 用于显示技术栈
   bio    : >-
-    Graduate Student at UBC, specializing in Mechatronics Design. Passionate about robotics, AI, and innovative engineering solutions.
-    
+    <div style="text-align: justify; text-justify: inter-word; margin-bottom: 15px;">
+      Graduate Student at UBC, specializing in Mechatronics Design. Passionate about robotics, AI, and innovative engineering solutions.
+    </div>
+
     <div style="margin-top: 15px; border-top: 1px solid #e0e0e0; padding-top: 15px; text-align: left;">
       <div style="margin-bottom: 10px;">
         <strong style="color: #990000; font-size: 0.8em; text-transform: uppercase;">🛠️ Design & Drafting</strong><br>
@@ -105,7 +107,6 @@ author:
     - label: "Resume"
       icon: "fas fa-fw fa-file-alt"
       url: https://zhaolinwei-clark.github.io/file/Resume.pdf
-    
 
 footer:
   links:
