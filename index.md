@@ -13,7 +13,7 @@ author_profile: true
   /* 在大屏幕上，让文字区域稍微宽一点 */
   @media (min-width: 1280px) {
     .page__content {
-      width: 100% !important; 
+      width: 120% !important; 
       margin-right: auto;
     }
   }
