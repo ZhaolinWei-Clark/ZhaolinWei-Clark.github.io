@@ -53,7 +53,7 @@ title: "Projects"
     <img src="/images/Image_robot_in_progress1.png" alt="Prototype Demonstration" width="400" height="300">
   </div>
 
-- **Simulation and Control Optimization of BLDC Motor Drive Systems**<br>
+- [Simulation and Control Optimization of BLDC Motor Drive Systems](https://github.com/ZhaolinWei-Clark/BLDC_Motor_Drive_Modeling_Analysis)<br>
   <small>
     Developed a dynamic simulation model for Brushless DC (BLDC) motor drives using MATLAB/Simulink, incorporating Average Value Models (AVM) to significantly optimize computational efficiency. Designed and implemented a Maximum Torque Per Voltage (MTPV) control strategy by mathematically formulating the optimal voltage lead angle, maximizing high-speed torque output under voltage constraints.
   </small>
@@ -99,7 +99,7 @@ title: "Projects"
   </div>
 
 - **Old-fashioned Sewing Machine Solidworks Model**<br>
-  *Fourth-year Course design.*<br>
+  *Course design.*<br>
   <small>
     Modeled a fully functional vintage sewing machine assembly (50+ components) in SolidWorks. Performed comprehensive tolerance stack-up analysis and applied GD&T standards (ASME Y14.5) to ensure kinematic accuracy and manufacturability of the complex mechanical linkages.
   </small>
