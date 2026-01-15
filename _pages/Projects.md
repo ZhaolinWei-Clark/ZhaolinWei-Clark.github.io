@@ -49,13 +49,13 @@ title: "Projects"
   <small>
     Currently building a low-cost, teleoperated dual-arm mobile manipulator based on the open-source framework. The project involves full hardware integration, actuator control implementation, and data collection to validate imitation learning algorithms for household automation tasks.
   </small>
+  <div class="img-container">
+    <img src="/images/Image_robot_in_progress1.png" alt="Prototype Demonstration" width="400" height="300">
+  </div>
 
 - **Simulation and Control Optimization of BLDC Motor Drive Systems**<br>
   <small>
     Developed a dynamic simulation model for Brushless DC (BLDC) motor drives using MATLAB/Simulink, incorporating Average Value Models (AVM) to significantly optimize computational efficiency. Designed and implemented a Maximum Torque Per Voltage (MTPV) control strategy by mathematically formulating the optimal voltage lead angle, maximizing high-speed torque output under voltage constraints.
-    <div class="img-container">
-    <img src="/images/Image_robot_in_progress1.png" alt="Robot Demonstration" width="400" height="300">
-  </div>
   </small>
 
 - **3D Surgical Instrument and Tissue Tracking System**<br>
@@ -63,6 +63,9 @@ title: "Projects"
   <small>
     Built a real-time stereo vision tracking system using Python and OpenCV to capture 3D trajectories of surgical instruments and soft tissue. Integrated Lucas-Kanade optical flow with Shi-Tomasi corner detection and optimized pyramid layers, reducing tracking failure rates by 15% during rapid movements and achieving sub-pixel tracking accuracy (<0.8 pixels).
   </small>
+  <div class="img-container">
+    <img src="/images/combined.png" alt="Prototype Demonstration" width="400" height="300">
+  </div>
 
 - [Electromagnetic Calculation Program for DC Permanent Magnet Motors](https://github.com/ZhaolinWei-Clark/Theoretical-calculation-of-permanent-magnet-motor-.git)<br>
 
