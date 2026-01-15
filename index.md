@@ -32,7 +32,8 @@ author_profile: true
 </p>
 
 <p>
-  With professional experience at <strong>Sands China</strong> using <strong>AutoCAD and Revit</strong> for large-scale facility drafting, I ensure strict data integrity and standard compliance. 
+  With professional experience at <strong>University of Macau</strong> using <strong>AutoCAD and SolidWorks</strong> for sensor and actuator drafting, I ensure strict data integrity and standard compliance.
+  I solve critical performance and quality challenges by bridging cross-functional gaps—from structural drafting in AutoCAD to optimizing motor efficiency by 40%—to deliver robust, production-ready solutions for industrial automation.
   Whether performing tolerance stack-up analysis in <strong>SolidWorks</strong> or writing <strong>Python</strong> scripts for test automation, I strive to deliver precision engineering that makes a real-world impact.
 </p>
 

@@ -45,16 +45,17 @@ title: "Projects"
 
 ## Projects
 
-- **[Current] Low-Cost Dual-Arm Mobile Robot Platform (AlohaMini)**<br>
-  **Zhaolin Wei**<br>
+- **[in progress] Low-Cost Dual-Arm Mobile Robot Platform (AlohaMini)**<br>
   <small>
-    Currently building a low-cost, teleoperated dual-arm mobile manipulator based on the open-source AlohaMini framework. The project involves full hardware integration, actuator control implementation, and data collection to validate imitation learning algorithms for household automation tasks.
+    Currently building a low-cost, teleoperated dual-arm mobile manipulator based on the open-source framework. The project involves full hardware integration, actuator control implementation, and data collection to validate imitation learning algorithms for household automation tasks.
   </small>
 
 - **Simulation and Control Optimization of BLDC Motor Drive Systems**<br>
-  *Academic Project*<br>
   <small>
-    Developed a dynamic simulation model for Brushless DC (BLDC) motor drives using MATLAB/Simulink, incorporating Average Value Models (AVM) to significantly optimize computational efficiency. Designed and implemented a Maximum Torque Per Voltage (MTPV) control strategy by mathematically formulating the optimal voltage lead angle ($\phi_v$), maximizing high-speed torque output under voltage constraints.
+    Developed a dynamic simulation model for Brushless DC (BLDC) motor drives using MATLAB/Simulink, incorporating Average Value Models (AVM) to significantly optimize computational efficiency. Designed and implemented a Maximum Torque Per Voltage (MTPV) control strategy by mathematically formulating the optimal voltage lead angle, maximizing high-speed torque output under voltage constraints.
+    <div class="img-container">
+    <img src="/images/Image_robot_in_progress1.png" alt="Robot Demonstration" width="400" height="300">
+  </div>
   </small>
 
 - **3D Surgical Instrument and Tissue Tracking System**<br>
@@ -64,7 +65,7 @@ title: "Projects"
   </small>
 
 - [Electromagnetic Calculation Program for DC Permanent Magnet Motors](https://github.com/ZhaolinWei-Clark/Theoretical-calculation-of-permanent-magnet-motor-.git)<br>
-  **Zhaolin Wei**<br>
+
   <small>
     Developed a Python-based computational tool to analyze the electromagnetic properties of DC permanent magnet motors. The program automates magnetic circuit calculations to predict motor performance, reducing the reliance on manual iterations and facilitating rapid preliminary design optimization.
   </small>
@@ -80,13 +81,12 @@ title: "Projects"
 
 - [Automated Warehouse Management System](https://github.com/ZhaolinWei-Clark/Automated-Warehouse-Management-System)<br>
   *Course design, UBC*<br>
-  **Zhaolin Wei**, Haoyuan Jiang, Kushal Sedhai <br>
   <small>
     Engineered a sophisticated simulation platform for warehouse operations management. It provides a two-dimensional environment where users can define warehouse parameters, manage items and robots, and execute automated tasks through an intuitive graphical interface.
   </small>
 
 - **Arduino-Based Smart Cup Heater** <br>
-  *Course Design*<br>
+
   <small>
     Built an Arduino-controlled cup heater with a user-selectable setpoint between 10–80°C via a button interface and real-time LCD readout. Calibrated the temperature sensor to correct measurement offset versus actual water temperature and refined the control code, achieving accurate heating to the desired temperature with clear on-device feedback.
   </small>
@@ -97,7 +97,6 @@ title: "Projects"
 
 - **Old-fashioned Sewing Machine Solidworks Model**<br>
   *Fourth-year Course design.*<br>
-  **Zhaolin Wei**, Junyi Li<br>
   <small>
     Modeled a fully functional vintage sewing machine assembly (50+ components) in SolidWorks. Performed comprehensive tolerance stack-up analysis and applied GD&T standards (ASME Y14.5) to ensure kinematic accuracy and manufacturability of the complex mechanical linkages.
   </small>
