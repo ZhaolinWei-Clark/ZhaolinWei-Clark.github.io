@@ -79,7 +79,6 @@ author:
         <strong style="color: #990000; font-size: 0.8em; text-transform: uppercase;"> 🤖 Robotics & AI</strong><br>
         <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">ROS2</span>
         <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">PyTorch</span>
-        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">Inventor</span>
         <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">OpenCV</span>
       </div>
 
@@ -94,7 +93,7 @@ author:
       <div style="margin-bottom: 10px;">
         <strong style="color: #990000; font-size: 0.8em; text-transform: uppercase;">⚙️ Fabrication</strong><br>
         <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">CNC</span>
-        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">3D Print</span>
+        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">3D Printing</span>
         <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">Waterjet</span>
       </div>
 
