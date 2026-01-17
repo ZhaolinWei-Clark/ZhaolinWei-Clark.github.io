@@ -8,8 +8,21 @@ author_profile: true
     text-align: justify;
     line-height: 1.8;
     font-size: 1.05rem;
+    color: #333;
   }
   
+  /* 强调色：技术栈 - 科技蓝 */
+  .tech-highlight {
+    color: #0056b3; 
+    font-weight: 600;
+  }
+
+  /* 强调色：核心价值/结果 - 醒目红 */
+  .value-highlight {
+    color: #b71c1c; 
+    font-weight: 600;
+  }
+
   /* 在大屏幕上，让文字区域稍微宽一点 */
   @media (min-width: 1280px) {
     .page__content {
@@ -21,28 +34,40 @@ author_profile: true
 
 <p style="margin-top: 0;">Hello, I am <strong>Zhaolin Wei (Clark, 魏召霖)</strong>.</p>
 
+<h3>🚀 Who I Am</h3>
 <p>
-  I am a <strong>Master of Mechatronics Design</strong> graduate from the University of British Columbia and a registered <strong>Engineer-in-Training (E.I.T.)</strong> with EGBC. 
-  My expertise lies in the full lifecycle of robotics development—from high-precision mechanical design and GD&T to automated testing and system integration.
+  I am a <strong>Mechatronics Engineer (E.I.T.)</strong> bridging the gap between <span class="tech-highlight">precision mechanical design</span> and <span class="tech-highlight">intelligent control systems</span>. 
+  A Master of Engineering graduate from UBC, I specialize in transforming theoretical concepts into <strong>buildable, code-compliant industrial solutions</strong>.
 </p>
 
+<h3>🛠 What I Do & Who I Work With</h3>
 <p>
-  During my graduate studies at the <a href="https://amp.mech.ubc.ca/">Advanced Manufacturing Processes Laboratory (AMP)</a>, I was advised by <a href="https://scholar.google.com/citations?user=bcv5q2gAAAAJ&hl=en">Prof. Xiaoliang Jin</a>, where I <strong>optimized manufacturing workflows</strong> to reduce material waste by 30%. 
-  I also collaborated with <a href="https://mech.ubc.ca/ryozo-nagamune/">Prof. Ryozo Nagamune</a> at the <a href="https://cel.mech.ubc.ca/">Control Engineering Laboratory (CEL)</a>.
+  My expertise is forged in top-tier research environments. Under the guidance of <a href="https://mech.ubc.ca/ryozo-nagamune/"><strong>Prof. Ryozo Nagamune</strong></a> at the <span class="tech-highlight">Control Engineering Laboratory (CEL)</span>, I honed my skills in advanced system dynamics and control strategies. 
+  Concurrently, I collaborated with <a href="https://scholar.google.com/citations?user=bcv5q2gAAAAJ&hl=en">Prof. Xiaoliang Jin</a> at the AMP Lab to master digital manufacturing workflows.
+</p>
+<p>
+  I combine these disciplines to engineer robust systems using <span class="tech-highlight">SolidWorks, Python, and PLC automation</span>. I don't just design parts; I integrate <strong>mechanical structure, electrical logic, and software control</strong> into cohesive operational units.
 </p>
 
+<h3>💡 What Problems I Solve</h3>
 <p>
-  With professional experience at <strong>University of Macau</strong> using <strong>AutoCAD and SolidWorks</strong> for sensor and actuator drafting, I ensure strict data integrity and standard compliance.
-  I solve critical performance and quality challenges by bridging cross-functional gaps—from structural drafting in AutoCAD to optimizing motor efficiency by 40%—to deliver robust, production-ready solutions for industrial automation.
-  Whether performing tolerance stack-up analysis in <strong>SolidWorks</strong> or writing <strong>Python</strong> scripts for test automation, I strive to deliver precision engineering that makes a real-world impact.
+  <strong>I solve efficiency and reliability bottlenecks.</strong> 
+  Companies hire me to translate complex requirements into <span class="value-highlight">production-ready reality</span>. 
+  Whether it's conducting tolerance stack-up analysis (GD&T) to ensure fit, or writing Python scripts for automated testing, my focus is always on the result:
 </p>
+<ul>
+  <li><strong>Optimized Performance:</strong> Engineered motor characterization tools that improved efficiency by <span class="value-highlight">40%</span>.</li>
+  <li><strong>Reliable Manufacturing:</strong> Validated designs via <span class="tech-highlight">FEA & Root Cause Analysis</span> to eliminate downtime risks before production.</li>
+  <li><strong>Scalable Automation:</strong> Deployed robust control logic for industrial actuators ensuring <span class="value-highlight">40,000+ continuous cycles</span>.</li>
+</ul>
 
-<div style="margin-top: 40px; padding: 20px; background-color: #f9f9f9; border-left: 4px solid #990000; border-radius: 4px;">
-  <p style="margin: 0; font-weight: bold; color: #333;">📩 Open for Opportunities</p>
-  <p style="margin: 5px 0 0 0;">
-    I am actively seeking Engineering Positions in <span style="color: #990000;">Robotics, Mechanical Design, or Test Engineering</span>.
-    <br>
-    Reach out: <strong>zhaolinw@student.ubc.ca</strong> or <strong>ziulam1005@gmail.com</strong>
+<div style="margin-top: 40px; padding: 20px; background-color: #f0f4f8; border-left: 5px solid #0056b3; border-radius: 4px;">
+  <p style="margin: 0; font-weight: bold; color: #0056b3; font-size: 1.1rem;">📩 Ready to Engineer Impact</p>
+  <p style="margin: 10px 0 0 0;">
+    I am actively seeking roles in <span class="value-highlight">Mechatronics, Mechanical Design, or Automation Engineering</span>. 
+    I am ready to travel, adapt, and deliver.
+    <br><br>
+    Let's connect: <a href="mailto:zhaolinw@student.ubc.ca" style="text-decoration: underline; font-weight: bold;">zhaolinw@student.ubc.ca</a>
   </p>
 </div>
 
