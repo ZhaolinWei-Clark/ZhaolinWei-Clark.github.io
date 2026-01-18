@@ -57,6 +57,7 @@ title: "Projects"
   </div>
 
 - [Simulation and Control Optimization of BLDC Motor Drive Systems](https://github.com/ZhaolinWei-Clark/BLDC_Motor_Drive_Modeling_Analysis)<br>
+- *Academic Project*<br>
   <small>
     Developed a dynamic simulation model for Brushless DC (BLDC) motor drives using MATLAB/Simulink, incorporating Average Value Models (AVM) to significantly optimize computational efficiency. Designed and implemented a Maximum Torque Per Voltage (MTPV) control strategy by mathematically formulating the optimal voltage lead angle, maximizing high-speed torque output under voltage constraints.
   </small>
