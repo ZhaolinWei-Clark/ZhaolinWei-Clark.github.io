@@ -41,7 +41,7 @@ title: "Projects"
     Developed novel self-powered flexible sensors capable of detecting subtle physiological signals (such as pulse and muscle movements) for personal health monitoring. The project focused on material synthesis, electromechanical characterization, and the integration of sensors into wearable devices.
   </small>
   <div class="img-container">
-    <img src="/images/images/fyp_um.png" alt="Demonstration of Application" width="400" height="300">
+    <img src="/images/fyp_um.png" alt="Demonstration of Application" width="400" height="300">
   </div>
 
 ---
