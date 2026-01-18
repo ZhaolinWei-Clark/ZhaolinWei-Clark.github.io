@@ -31,7 +31,7 @@ title: "Projects"
     Investigated and implemented a closed-loop temperature monitoring system for Laser-based Directed Energy Deposition (L-DED). Developed a thermal control strategy to stabilize the melt pool temperature, ensuring consistent material deposition and reducing defects in additive manufacturing processes.
   </small>
   <div class="img-container">
-    <img src="/images/additivie set up.jpeg" alt="Metal Additive Demonstration" width="400" height="300">
+    <img src="/images/additivie set up.jpeg" alt="L-DED Set up" width="400" height="300">
   </div>
 
 - [Self-powered Flexible Electromechanical Sensors for Personal Health Evaluation](https://zhaolinwei-clark.github.io/mypaper/thesis/final-project-report.pdf)<br>
@@ -40,6 +40,9 @@ title: "Projects"
   <small>
     Developed novel self-powered flexible sensors capable of detecting subtle physiological signals (such as pulse and muscle movements) for personal health monitoring. The project focused on material synthesis, electromechanical characterization, and the integration of sensors into wearable devices.
   </small>
+  <div class="img-container">
+    <img src="/images/images/fyp_um.png" alt="Demonstration of Application" width="400" height="300">
+  </div>
 
 ---
 
