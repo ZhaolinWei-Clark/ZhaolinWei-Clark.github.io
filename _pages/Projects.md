@@ -2,6 +2,7 @@
 layout: splash
 permalink: /projects/
 title: "Projects"
+classes: wide
 ---
 
 <style>
