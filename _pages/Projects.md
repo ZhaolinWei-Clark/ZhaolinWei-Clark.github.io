@@ -61,6 +61,10 @@ title: "Projects"
   <small>
     Developed a dynamic simulation model for Brushless DC (BLDC) motor drives using MATLAB/Simulink, incorporating Average Value Models (AVM) to significantly optimize computational efficiency. Designed and implemented a Maximum Torque Per Voltage (MTPV) control strategy by mathematically formulating the optimal voltage lead angle, maximizing high-speed torque output under voltage constraints.
   </small>
+  <div class="third">
+    <img src="/images/bldc_ubc_torque.png" style="width: 32%; margin-right: 1%;">
+    <img src="/images/bldc_ubc_compare result vsi.png" style="width: 32%; margin-right: 1%;">
+  </div>
 
 - **3D Surgical Instrument and Tissue Tracking System**<br>
   *Academic Project*<br>
@@ -86,11 +90,25 @@ title: "Projects"
     <img src="/images/HVAC.png" alt="GUI Demonstration" width="400" height="300">
   </div>
 
+  - [multiple电机主轴设计]<br>
+  Design Work, Fuwode Machinery Co.,Ltd.<br>
+  <small>
+    based on customer's requirement, design high speed spindle
+  </small>
+  <div class="img-container">
+    <img src="/images/fuwode/hs spindle.png" alt="剖视图" width="400" height="300">
+    <img src="/images/fuwode/A12B.jpg" width="400" height="300">
+    <img src="/images/fuwode/A4_BT40_belt.JPG" width="400" height="300">
+  </div>
+
 - [Automated Warehouse Management System](https://github.com/ZhaolinWei-Clark/Automated-Warehouse-Management-System)<br>
   *Course design, UBC*<br>
   <small>
     Engineered a sophisticated simulation platform for warehouse operations management. It provides a two-dimensional environment where users can define warehouse parameters, manage items and robots, and execute automated tasks through an intuitive graphical interface.
   </small>
+  <div class="img-container">
+    <img src="/images/warehouse.png" width="400" height="300">
+  </div>
 
 - **Arduino-Based Smart Cup Heater** <br>
 
