@@ -1,0 +1,32 @@
+@import "minimal-mistakes";
+
+/* ====== 强制拓宽页面宽度 ====== */
+
+.page {
+  max-width: 1600px !important;
+}
+
+.page__content {
+  max-width: 1300px !important;
+  width: 100% !important;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.layout--single .page__content {
+  max-width: 1300px !important;
+}
+
+.page__inner-wrap {
+  max-width: 1400px !important;
+}
+
+.page__content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.page__content img {
+  width: 100%;
+  height: auto;
+}
