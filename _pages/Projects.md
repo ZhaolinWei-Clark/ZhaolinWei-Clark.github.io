@@ -869,6 +869,9 @@ classes: wide
                 <div class="pf-proj-detail-img">
                   <img src="/images/additivie set up.jpeg" alt="L-DED Setup" style="max-width:560px">
                 </div>
+                <div class="pf-proj-detail-img">
+                  <img src="/images/contour_temperature.jpeg" alt="FE " style="max-width:560px">
+                </div>
                 <div class="pf-proj-meta-row">
                   <div class="pf-field">
                     <div class="pf-field-label">Supervisors</div>
