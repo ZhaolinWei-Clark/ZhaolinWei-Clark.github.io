@@ -220,7 +220,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--near);-webkit-font
     <span class="cat-chev">▾</span>
   </div>
   <div class="cat-body" id="cat-mech-body">
-    <div class="card-grid g3">
+    <div class="card-grid g2">
 
       <!-- Spindle -->
       <div class="card" data-tags="Motor,DFM,Manufacturing,Test,CAD" onclick="openModal('m-spindle')">
