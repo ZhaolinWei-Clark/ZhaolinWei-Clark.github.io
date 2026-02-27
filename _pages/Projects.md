@@ -3,7 +3,6 @@ layout: splash
 permalink: /projects/
 title: "Projects"
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
