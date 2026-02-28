@@ -240,9 +240,9 @@ body{font-family:var(--font);background:var(--bg);color:var(--near);-webkit-font
       <!-- S45C Shaft -->
       <div class="card" data-tags="Root Cause Analysis,Mechanical,Fatigue,FEA" onclick="openModal('m-shaft')">
         <div class="card-img">
-          <div class="card-img-ph"><!-- INSERT IMAGE HERE -->
-            <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#bbb" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 8v4l3 3"/></svg>
-            <span>Image Pending</span>
+          <div class="card-img-split">
+            <img src="/images/fuwode/Image_motor fracture.png" alt="Shaft fracture">
+            <img src="/images/fuwode/Image_fatigue.jpg" alt="Shaft fatigue analysis">
           </div>
         </div>
         <div class="card-body">
@@ -364,7 +364,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--near);-webkit-font
         <div class="card-body">
           <p class="card-title">L-DED Closed-Loop Temperature Monitoring</p>
           <p class="card-short">Graduate thesis — real-time melt pool temperature stabilization for laser-based directed energy deposition. Closed-loop thermal control reducing deposition defects. CEL &amp; AMP Labs, UBC.</p>
-          <div class="card-tags"><span class="tag">MATLAB</span><span class="tag">Control</span><span class="tag">Manufacturing</span><span class="tag">Additive</span></div>
+          <div class="card-tags"><span class="tag">MATLAB</span><span class="tag">Control</span><span class="tag">FEA</span><span class="tag">Manufacturing</span><span class="tag">Additive</span></div>
           <button class="card-btn">View Details <svg width="11" height="11" viewBox="0 0 12 12" fill="none"><path d="M2 6h8M6 2l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
         </div>
       </div>
