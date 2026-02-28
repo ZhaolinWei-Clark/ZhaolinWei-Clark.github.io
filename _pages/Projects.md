@@ -385,10 +385,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--near);-webkit-font
       <!-- Chatter -->
       <div class="card" data-tags="Manufacturing,CNC,Control,MATLAB" onclick="openModal('m-chatter')">
         <div class="card-img">
-          <div class="card-img-ph"><!-- INSERT IMAGE HERE -->
-            <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#bbb" stroke-width="1.5"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
-            <span>Image Pending</span>
-          </div>
+          <img src="/images/chatter stability.png" alt="Chatter Stability Diagram">
         </div>
         <div class="card-body">
           <p class="card-title">A17050 Slot Milling Chatter Stability &amp; Optimization</p>
