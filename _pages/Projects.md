@@ -758,7 +758,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--near);-webkit-font
     <p class="pmodal-ey">Research · UBC Graduate Thesis</p>
     <h2 class="pmodal-title">L-DED Closed-Loop Temperature Monitoring</h2>
     <p class="pmodal-sub">Graduate thesis investigating closed-loop thermal control for Laser-based Directed Energy Deposition — real-time melt pool temperature stabilization to achieve consistent layer deposition and suppress thermal defects in additive manufactured parts.</p>
-    <div class="pmodal-tags"><span class="tag">MATLAB</span><span class="tag">Control</span><span class="tag">Manufacturing</span><span class="tag">L-DED</span><span class="tag">Additive</span></div>
+    <div class="pmodal-tags"><span class="tag">MATLAB</span><span class="tag">FEA</span><span class="tag">Control</span><span class="tag">Manufacturing</span><span class="tag">L-DED</span><span class="tag">Additive</span></div>
     <div class="pmdiv"></div>
     <div class="pm-grid">
       <div class="pm-field"><p class="pm-label">Supervisors</p><p class="pm-val">Ryozo Nagamune &amp; Xiaoliang Jin<br>CEL &amp; AMP Labs, UBC</p></div>
