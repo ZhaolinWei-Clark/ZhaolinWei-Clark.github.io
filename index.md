@@ -284,7 +284,6 @@ author_profile: true
 
   <!-- HERO -->
   <header class="hp-hero">
-    <h1 class="hp-name">Zhaolin Wei<br>(Clark)</h1>
     <p class="hp-title">Mechanical &amp; Mechatronics Engineer · E.I.T. · M.Eng UBC</p>
     <p class="hp-tagline">
       <strong>Precision mechanical design, FEA-validated reliability, and automation-ready systems</strong> —
