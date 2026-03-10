@@ -299,7 +299,7 @@ author_profile: true
       of <strong>mechanical design, manufacturing engineering, and dynamic systems</strong>.
       My foundation was forged in industry at <strong>Fuwode Machinery Co., Ltd</strong> — designing high-speed motor spindles,
       running failure investigations, and owning production quality on the floor.
-      I bring <span class="mono">SolidWorks CSWP</span> certification and a <span class="mono">Six Sigma Green Belt</span>
+      I bring <span class="mono">SOLIDWORKS Design Professional (CSWP)</span> certification and a <span class="mono">Six Sigma Green Belt</span>
       into every engagement, alongside hands-on research in additive manufacturing,
       BLDC motor modeling, and milling dynamics.
       I operate at the boundary where <strong>mechanism meets code</strong>.
