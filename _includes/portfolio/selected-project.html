@@ -1,0 +1,13 @@
+{% assign item = include.project %}
+<article class="pf-feature{% if include.index == 3 %} pf-feature--wide{% endif %}{% if include.index == 6 %} pf-feature--wide{% endif %}" id="work-{{ item.id }}">
+  <figure class="pf-feature__visual">
+    <img src="{{ item.featured.image | relative_url }}" alt="{{ item.featured.alt | escape }}" width="{{ item.featured.width }}" height="{{ item.featured.height }}" loading="lazy" decoding="async">
+    <figcaption>{{ item.title | escape }}</figcaption>
+  </figure>
+  <div class="pf-feature__copy">
+    <p class="pf-eyebrow"><span class="pf-feature__number">0{{ include.index }}</span> {{ item.featured.eyebrow | escape }}</p>
+    <h3>{{ item.featured.heading | escape }}</h3>
+    <p>{{ item.featured.description | escape }}</p>
+    <a class="pf-text-link" href="{{ '/projects/' | relative_url }}#{{ item.modal_id }}">Explore project <span aria-hidden="true">↗</span><span class="screen-reader-text">: {{ item.title | escape }}</span></a>
+  </div>
+</article>

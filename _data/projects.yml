@@ -1,0 +1,537 @@
+[
+  {
+    "id": "spindle",
+    "modal_id": "m-spindle",
+    "category": "cat-mech",
+    "title": "High-Speed Motor Spindle",
+    "card_title_html": "High-Speed Motor Spindle",
+    "summary_html": "Industrial CNC spindle design for Fuwode Machinery — full SolidWorks assembly, bearing selection, thermal management, and interference-fit validation.",
+    "tags": [
+      "Motor",
+      "DFM",
+      "Manufacturing",
+      "CAD"
+    ],
+    "filter_tags": [
+      "Motor",
+      "DFM",
+      "Manufacturing",
+      "Test",
+      "CAD"
+    ],
+    "card_media_html": "\n          <div class=\"card-img-split\">\n            <img src=\"/images/fuwode/hs spindle.png\" alt=\"Spindle cross-section\">\n            <img src=\"/images/fuwode/A12B.jpg\" alt=\"Spindle A12B\">\n          </div>\n        ",
+    "detail_title_html": null,
+    "context_html": "Mechanical Design · Fuwode Machinery Co., Ltd.",
+    "detail_summary_html": "Industrial CNC spindle series designed to client specifications — complete SolidWorks assemblies from concept through manufacturing-approved documentation, covering thermal, structural, and tolerance validation.",
+    "detail_tags": [
+      "Motor",
+      "DFM",
+      "Manufacturing",
+      "CAD",
+      "GD&T",
+      "SolidWorks"
+    ],
+    "detail_media_html": "<div class=\"pmodal-hero pmodal-hero-triple\" onclick=\"lbOpen(['/images/fuwode/hs spindle.png','/images/fuwode/A12B.jpg','/images/fuwode/A4_BT40_belt.JPG'],0)\">\n    <img src=\"/images/fuwode/hs spindle.png\" alt=\"Spindle cross-section\">\n    <img src=\"/images/fuwode/A12B.jpg\" alt=\"A12B assembly\">\n    <img src=\"/images/fuwode/A4_BT40_belt.JPG\" alt=\"A4 BT40\">\n    <span class=\"pmodal-zoom-hint\">Click to enlarge</span>\n  </div>",
+    "detail_body_style": "",
+    "detail_html": "<div class=\"pmdiv\"></div>\n    <div class=\"pm-grid g3\">\n      <div class=\"pm-field\"><p class=\"pm-label\">Client</p><p class=\"pm-val\">Fuwode Machinery Co., Ltd.<br>Industrial CNC Applications</p></div>\n      <div class=\"pm-field\"><p class=\"pm-label\">Scope</p><div class=\"pm-val\"><ul>\n        <li>Bearing selection &amp; preload optimization</li>\n        <li>Thermal management modeling</li>\n        <li>Interference-fit validation</li>\n        <li>Structural stiffness verification</li>\n      </ul></div></div>\n      <div class=\"pm-field\"><p class=\"pm-label\">Deliverables</p><div class=\"pm-val\"><ul>\n        <li>A12B spindle full assembly</li>\n        <li>A4 BT40 spindle assembly</li>\n        <li>Tolerance stack-up report</li>\n        <li>GD&amp;T per ASME Y14.5</li>\n        <li>Approved for precision manufacture</li>\n      </ul></div></div>\n    </div>\n    <div class=\"pm-callout\">\n      <p class=\"pm-callout-title\">Engineering Highlights</p>\n      <ul>\n        <li>High-speed bearing preload optimization for radial stiffness under dynamic load</li>\n        <li>Thermal expansion compensation preventing preload loss at operating temperature</li>\n        <li>Interference-fit validated with precision concentricity control (≤2 µm runout target)</li>\n        <li>Stiffness-to-weight optimization reducing vibration amplitude at high RPM</li>\n      </ul>\n    </div>",
+    "featured": {
+      "order": 1,
+      "eyebrow": "Precision machinery",
+      "heading": "Designing the assembly, not just the part.",
+      "description": "SolidWorks assemblies, bearing selection, thermal management and interference-fit validation for industrial CNC spindle systems.",
+      "source_image": "/images/fuwode/hs spindle.png",
+      "alt": "Cross-section of a high-speed motor spindle showing the shaft and bearing assembly.",
+      "image": "/assets/images/selected/spindle.webp",
+      "width": 1200,
+      "height": 752
+    },
+    "featured_order": 1
+  },
+  {
+    "id": "shaft",
+    "modal_id": "m-shaft",
+    "category": "cat-mech",
+    "title": "S45C Motor Shaft Fatigue Failure Analysis",
+    "card_title_html": "S45C Motor Shaft Fatigue Failure Analysis",
+    "summary_html": "Root-cause investigation of industrial motor shaft fatigue crack — SEM fracture analysis, stress concentration evaluation, heat treatment audit and redesign recommendation.",
+    "tags": [
+      "Fatigue",
+      "FEA",
+      "Root Cause",
+      "Mechanical"
+    ],
+    "filter_tags": [
+      "Root Cause Analysis",
+      "Mechanical",
+      "Fatigue",
+      "FEA"
+    ],
+    "card_media_html": "\n          <div class=\"card-img-split\">\n            <img src=\"/images/fuwode/Image_motor fracture.png\" alt=\"Shaft fracture\">\n            <img src=\"/images/fuwode/Image_fatigue.jpg\" alt=\"Shaft fatigue analysis\">\n          </div>\n        ",
+    "detail_title_html": null,
+    "context_html": "Failure Analysis · Fuwode Machinery Co., Ltd.",
+    "detail_summary_html": "Root-cause investigation of premature shaft failure in service. Identified rotational bending fatigue at a stress-concentrating shoulder, exacerbated by improper induction hardening process sequence.",
+    "detail_tags": [
+      "Fatigue",
+      "FEA",
+      "Root Cause",
+      "Heat Treatment",
+      "S45C"
+    ],
+    "detail_media_html": "",
+    "detail_body_style": "padding-top:32px",
+    "detail_html": "<div class=\"pmdiv\"></div>\n    <div class=\"pm-fail-grid\">\n      <div class=\"pm-fail-cell\"><p class=\"pm-fail-label\">Failure Mode</p><p class=\"pm-fail-val\">Rotational bending fatigue at shaft shoulder (Ø53.5 → Ø52.5 mm). Classic beach marks on fracture surface confirm progressive fatigue crack propagation.</p></div>\n      <div class=\"pm-fail-cell\"><p class=\"pm-fail-label\">Material Condition</p><p class=\"pm-fail-val\">S45C steel — coarse grain structure, Widmanstätten microstructure indicating overheating (~880°C) and improper induction heat treatment.</p></div>\n      <div class=\"pm-fail-cell\"><p class=\"pm-fail-label\">Root Cause</p><p class=\"pm-fail-val\">Stress concentration at fillet (R0.1) · Shallow hardened layer · Semi-finish machining removed the treated surface at the highest-stress section.</p></div>\n      <div class=\"pm-fail-cell\"><p class=\"pm-fail-label\">Process Sequence Error</p><p class=\"pm-fail-val\">Heat treatment applied before final machining — negating the hardened surface layer precisely at the critical stress concentration location.</p></div>\n    </div>\n    <div class=\"pm-callout\" style=\"margin-top:22px\">\n      <p class=\"pm-callout-title\">Corrective Recommendations</p>\n      <ul>\n        <li>Increase fillet radius at shoulder transition: R0.1 → R ≥ 0.5 mm</li>\n        <li>Audit induction hardening parameters — reduce peak temperature to suppress grain coarsening</li>\n        <li>Revise sequence: Rough machine → Heat treat → Semi-finish (preserve hardened layer)</li>\n        <li>Add hardness verification step post semi-finish to confirm case depth retention</li>\n      </ul>\n    </div>"
+  },
+  {
+    "id": "sewing",
+    "modal_id": "m-sewing",
+    "category": "cat-mech",
+    "title": "Vintage Sewing Machine — Mechanism Design",
+    "card_title_html": "Vintage Sewing Machine — Mechanism Design",
+    "summary_html": "50+ component parametric SolidWorks assembly — full GD&amp;T application, tolerance stack-up analysis, and kinematic motion study across complex mechanical linkages.",
+    "tags": [
+      "CAD",
+      "GD&T",
+      "SolidWorks",
+      "Tolerance"
+    ],
+    "filter_tags": [
+      "CAD",
+      "GDT",
+      "SolidWorks",
+      "Tolerance"
+    ],
+    "card_media_html": "\n          <img src=\"/images/solidworks_sewing%20machine.png\" alt=\"SolidWorks sewing machine assembly\">\n        ",
+    "detail_title_html": null,
+    "context_html": "Mechanical Design · UBC Course Project",
+    "detail_summary_html": "Fully constrained parametric assembly of a vintage sewing machine modeled from reference drawings. Applied GD&amp;T standards and performed tolerance stack-up analysis across all critical kinematic linkages.",
+    "detail_tags": [
+      "CAD",
+      "GD&T",
+      "SolidWorks",
+      "Tolerance",
+      "Kinematics"
+    ],
+    "detail_media_html": "<div class=\"pmodal-hero\" onclick=\"lbOpen(['/images/solidworks_sewing%20machine.png'],0)\">\n    <img src=\"/images/solidworks_sewing%20machine.png\" alt=\"SolidWorks sewing machine\" style=\"max-height:360px;object-fit:contain;background:#fafafa\">\n    <span class=\"pmodal-zoom-hint\">Click to enlarge</span>\n  </div>",
+    "detail_body_style": "",
+    "detail_html": "<div class=\"pmdiv\"></div>\n    <div class=\"pm-grid\">\n      <div class=\"pm-field\"><p class=\"pm-label\">Technical Scope</p><div class=\"pm-val\"><ul>\n        <li>50+ components modeled from reference drawings</li>\n        <li>Comprehensive tolerance stack-up analysis</li>\n        <li>GD&amp;T applied per ASME Y14.5 on all mating surfaces</li>\n        <li>Kinematic motion study validating linkage clearances</li>\n      </ul></div></div>\n      <div class=\"pm-field\"><p class=\"pm-label\">Engineering Highlights</p><div class=\"pm-val\"><ul>\n        <li>Fully constrained assembly with correct kinematic DOF</li>\n        <li>All complex linkages verified for functional motion accuracy</li>\n        <li>GD&amp;T ensuring correct functional clearances throughout</li>\n        <li>Drawing package with machining and assembly notes</li>\n      </ul></div></div>\n    </div>"
+  },
+  {
+    "id": "bldc",
+    "modal_id": "m-bldc",
+    "category": "cat-ctrl",
+    "title": "BLDC Motor Drive — MTPV Control Optimization",
+    "card_title_html": "BLDC Motor Drive — MTPV Control Optimization",
+    "summary_html": "Maximum Torque Per Voltage strategy with optimal voltage lead angle derivation. Simulink AVM simulation — Electric Power &amp; Energy Systems Group, UBC.",
+    "tags": [
+      "Motor",
+      "Control",
+      "MATLAB",
+      "Simulation"
+    ],
+    "filter_tags": [
+      "Motor",
+      "Control",
+      "MATLAB",
+      "Simulation"
+    ],
+    "card_media_html": "\n          <div class=\"card-img-split\">\n            <img src=\"/images/bldc_ubc_torque.png\" alt=\"BLDC torque\">\n            <img src=\"/images/bldc_ubc_compare result vsi.png\" alt=\"BLDC VSI\">\n          </div>\n        ",
+    "detail_title_html": null,
+    "context_html": "Control &amp; Simulation · Electric Power and Energy Systems Group, UBC",
+    "detail_summary_html": "Dynamic MATLAB/Simulink simulation of a BLDC motor drive using Average Value Models (AVM), with a Maximum Torque Per Voltage control strategy derived by mathematically formulating the optimal voltage lead angle under voltage constraints.",
+    "detail_tags": [
+      "Motor",
+      "Control",
+      "MATLAB",
+      "Simulink",
+      "AVM"
+    ],
+    "detail_media_html": "<div class=\"pmodal-hero\" onclick=\"lbOpen(['/images/bldc_ubc_torque.png','/images/bldc_ubc_compare result vsi.png'],0)\">\n    <div class=\"pmodal-hero-split\">\n      <img src=\"/images/bldc_ubc_torque.png\" alt=\"Torque analysis\">\n      <img src=\"/images/bldc_ubc_compare result vsi.png\" alt=\"VSI comparison\">\n    </div>\n    <span class=\"pmodal-zoom-hint\">Click to enlarge</span>\n  </div>",
+    "detail_body_style": "",
+    "detail_html": "<div class=\"pmdiv\"></div>\n    <div class=\"pm-grid\">\n      <div class=\"pm-field\"><p class=\"pm-label\">Method</p><div class=\"pm-val\"><ul>\n        <li>Average Value Model (AVM) for computational efficiency</li>\n        <li>MTPV strategy derived from voltage constraint boundary</li>\n        <li>Optimal voltage lead angle formulated analytically</li>\n      </ul></div></div>\n      <div class=\"pm-field\"><p class=\"pm-label\">Results</p><div class=\"pm-val\"><ul>\n        <li>Maximized high-speed torque output under voltage limits</li>\n        <li>Reduced simulation computation time via AVM</li>\n        <li>Control theory validated against full-order model</li>\n      </ul></div></div>\n    </div>\n    <a href=\"https://github.com/ZhaolinWei-Clark/BLDC_Motor_Drive_Modeling_Analysis\" class=\"pm-link\" target=\"_blank\">GitHub Repository ↗</a>",
+    "featured": {
+      "order": 3,
+      "eyebrow": "Control & simulation",
+      "heading": "From voltage limits to motor behavior.",
+      "description": "A MATLAB/Simulink BLDC drive model exploring Maximum Torque Per Voltage control through average-value simulation and voltage lead-angle analysis.",
+      "source_image": "/images/bldc_ubc_torque.png",
+      "alt": "BLDC motor torque simulation results.",
+      "image": "/assets/images/selected/bldc.webp",
+      "width": 885,
+      "height": 664
+    },
+    "featured_order": 3
+  },
+  {
+    "id": "hvac",
+    "modal_id": "m-hvac",
+    "category": "cat-ctrl",
+    "title": "Autonomous HVAC Control System",
+    "card_title_html": "Autonomous HVAC Control System",
+    "summary_html": "Internship project at Sands China — GUI-based autonomous HVAC automation with real-time feedback loops and energy consumption optimization across multiple zones.",
+    "tags": [
+      "Python",
+      "Control",
+      "GUI"
+    ],
+    "filter_tags": [
+      "Python",
+      "Control",
+      "GUI"
+    ],
+    "card_media_html": "\n          <img src=\"/images/HVAC.png\" alt=\"HVAC GUI\">\n        ",
+    "detail_title_html": null,
+    "context_html": "Control &amp; Simulation · Intern Project · Sands China",
+    "detail_summary_html": "GUI-based autonomous HVAC automation system designed during internship — interactive component monitoring, real-time closed-loop temperature control, and energy consumption optimization across multiple building zones.",
+    "detail_tags": [
+      "Python",
+      "Control",
+      "GUI"
+    ],
+    "detail_media_html": "<div class=\"pmodal-hero\" onclick=\"lbOpen(['/images/HVAC.png'],0)\">\n    <img src=\"/images/HVAC.png\" alt=\"HVAC GUI\" style=\"max-height:340px;object-fit:contain;background:#fafafa\">\n    <span class=\"pmodal-zoom-hint\">Click to enlarge</span>\n  </div>",
+    "detail_body_style": "",
+    "detail_html": "<div class=\"pmdiv\"></div>\n    <div class=\"pm-grid\">\n      <div class=\"pm-field\"><p class=\"pm-label\">Features</p><div class=\"pm-val\"><ul>\n        <li>Interactive GUI for live HVAC monitoring</li>\n        <li>Dynamic component control interface</li>\n        <li>Real-time feedback loops for temperature regulation</li>\n        <li>Multi-zone energy optimization strategy</li>\n      </ul></div></div>\n      <div class=\"pm-field\"><p class=\"pm-label\">Outcome</p><p class=\"pm-val\">Autonomous system maintaining comfort setpoints across commercial HVAC zones while minimizing energy consumption through real-time feedback-driven control.</p></div>\n    </div>\n    <a href=\"https://github.com/ZhaolinWei-Clark/Autonomous-HVAC-System\" class=\"pm-link\" target=\"_blank\">GitHub Repository ↗</a>",
+    "featured": {
+      "order": 4,
+      "eyebrow": "Industrial automation",
+      "heading": "Making feedback useful on the floor.",
+      "description": "An internship project at Sands China combining a monitoring interface, closed-loop temperature control and multi-zone HVAC automation.",
+      "source_image": "/images/HVAC.png",
+      "alt": "Graphical interface for the autonomous HVAC control system.",
+      "image": "/assets/images/selected/hvac.webp",
+      "width": 1200,
+      "height": 692
+    },
+    "featured_order": 4
+  },
+  {
+    "id": "warehouse",
+    "modal_id": "m-warehouse",
+    "category": "cat-ctrl",
+    "title": "Automated Warehouse Management System",
+    "card_title_html": "Automated Warehouse Management System",
+    "summary_html": "2D simulation platform with configurable warehouse layout, robot fleet management, and automated task scheduling via graphical interface. UBC course design.",
+    "tags": [
+      "Python",
+      "Simulation",
+      "GUI",
+      "Robotics"
+    ],
+    "filter_tags": [
+      "Python",
+      "Simulation",
+      "GUI",
+      "Robotics"
+    ],
+    "card_media_html": "\n          <img src=\"/images/warehouse.png\" alt=\"Warehouse management system\">\n        ",
+    "detail_title_html": null,
+    "context_html": "Control &amp; Simulation · UBC Course Design",
+    "detail_summary_html": "2D simulation platform for warehouse operations — configurable environment parameters, item inventory management, robot fleet control, and automated task scheduling through an intuitive graphical interface.",
+    "detail_tags": [
+      "Python",
+      "Simulation",
+      "GUI",
+      "Robotics"
+    ],
+    "detail_media_html": "<div class=\"pmodal-hero\" onclick=\"lbOpen(['/images/warehouse.png'],0)\">\n    <img src=\"/images/warehouse.png\" alt=\"Warehouse system\" style=\"max-height:320px;object-fit:contain;background:#fafafa\">\n    <span class=\"pmodal-zoom-hint\">Click to enlarge</span>\n  </div>",
+    "detail_body_style": "",
+    "detail_html": "<div class=\"pmdiv\"></div>\n    <div class=\"pm-grid\">\n      <div class=\"pm-field\"><p class=\"pm-label\">Features</p><div class=\"pm-val\"><ul>\n        <li>2D configurable warehouse environment</li>\n        <li>Item inventory and robot fleet management</li>\n        <li>Automated task queue and execution pipeline</li>\n        <li>Graphical user interface for full parameter control</li>\n      </ul></div></div>\n      <div class=\"pm-field\"><p class=\"pm-label\">Stack</p><div class=\"pm-val\"><ul>\n        <li>Python · GUI framework</li>\n        <li>2D simulation engine</li>\n        <li>Event-driven task scheduler</li>\n        <li>Robot path coordination logic</li>\n      </ul></div></div>\n    </div>\n    <a href=\"https://github.com/ZhaolinWei-Clark/Automated-Warehouse-Management-System\" class=\"pm-link\" target=\"_blank\">GitHub Repository ↗</a>"
+  },
+  {
+    "id": "em",
+    "modal_id": "m-em",
+    "category": "cat-ctrl",
+    "title": "Electromagnetic Calculation Tool — DC PM Motors",
+    "card_title_html": "Electromagnetic Calculation Tool — DC PM Motors",
+    "summary_html": "Python automation of magnetic circuit analysis for DC permanent magnet motors — eliminates manual iteration in preliminary design and outputs performance prediction curves.",
+    "tags": [
+      "Motor",
+      "Electromagnetics",
+      "MATLAB",
+      "Python"
+    ],
+    "filter_tags": [
+      "Motor",
+      "Electromagnetics",
+      "MATLAB",
+      "Python"
+    ],
+    "card_media_html": "\n          <div class=\"card-img-ph\"><!-- INSERT IMAGE HERE -->\n            <svg width=\"36\" height=\"36\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#bbb\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M3 9h18M9 3v18\"/></svg>\n            <span>Image Pending</span>\n          </div>\n        ",
+    "detail_title_html": null,
+    "context_html": "Control &amp; Simulation · Independent Project",
+    "detail_summary_html": "Python-based computational tool automating magnetic circuit analysis for DC permanent magnet motors — eliminates manual iteration cycles in early-stage motor design and outputs performance prediction curves for rapid design comparison.",
+    "detail_tags": [
+      "Motor",
+      "Electromagnetics",
+      "MATLAB",
+      "Python"
+    ],
+    "detail_media_html": "",
+    "detail_body_style": "padding-top:32px",
+    "detail_html": "<div class=\"pmdiv\"></div>\n    <div class=\"pm-grid\">\n      <div class=\"pm-field\"><p class=\"pm-label\">Function</p><div class=\"pm-val\"><ul>\n        <li>Automated magnetic flux path analysis</li>\n        <li>Reluctance and MMF calculation pipeline</li>\n        <li>Performance curve output for rapid design comparison</li>\n        <li>Multi-pole geometry extension support</li>\n      </ul></div></div>\n      <div class=\"pm-field\"><p class=\"pm-label\">Impact</p><div class=\"pm-val\"><ul>\n        <li>Eliminates manual iteration in preliminary motor design</li>\n        <li>Reduces time-to-first-estimate significantly</li>\n        <li>Structured for extension to complex motor topologies</li>\n      </ul></div></div>\n    </div>\n    <a href=\"https://github.com/ZhaolinWei-Clark/Theoretical-calculation-of-permanent-magnet-motor-.git\" class=\"pm-link\" target=\"_blank\">GitHub Repository ↗</a>"
+  },
+  {
+    "id": "lded",
+    "modal_id": "m-lded",
+    "category": "cat-res",
+    "title": "L-DED Closed-Loop Temperature Monitoring",
+    "card_title_html": "L-DED Closed-Loop Temperature Monitoring",
+    "summary_html": "Graduate thesis — real-time melt pool temperature stabilization for laser-based directed energy deposition. Closed-loop thermal control reducing deposition defects. CEL &amp; AMP Labs, UBC.",
+    "tags": [
+      "MATLAB",
+      "Control",
+      "FEA",
+      "Manufacturing",
+      "Additive"
+    ],
+    "filter_tags": [
+      "MATLAB",
+      "Control",
+      "Manufacturing",
+      "Additive",
+      "FEA"
+    ],
+    "card_media_html": "\n          <img src=\"/images/additivie set up.jpeg\" alt=\"L-DED experimental setup\">\n        ",
+    "detail_title_html": null,
+    "context_html": "Research · UBC Graduate Thesis",
+    "detail_summary_html": "Graduate thesis investigating closed-loop thermal control for Laser-based Directed Energy Deposition — real-time melt pool temperature stabilization to achieve consistent layer deposition and suppress thermal defects in additive manufactured parts.",
+    "detail_tags": [
+      "MATLAB",
+      "FEA",
+      "Control",
+      "Manufacturing",
+      "L-DED",
+      "Additive"
+    ],
+    "detail_media_html": "<div class=\"pmodal-hero-duo\">\n    <img src=\"/images/additivie set up.jpeg\" alt=\"L-DED experimental setup\" onclick=\"lbOpen(['/images/additivie set up.jpeg','/images/contour_temperature.jpeg'],0)\">\n    <img src=\"/images/contour_temperature.jpeg\" alt=\"Temperature contour map\" onclick=\"lbOpen(['/images/additivie set up.jpeg','/images/contour_temperature.jpeg'],1)\">\n  </div>\n  <div style=\"position:relative\">\n    <span class=\"pmodal-zoom-hint\" style=\"position:absolute;top:-30px;right:12px\">Click image to enlarge</span>\n  </div>",
+    "detail_body_style": "",
+    "detail_html": "<div class=\"pmdiv\"></div>\n    <div class=\"pm-grid\">\n      <div class=\"pm-field\"><p class=\"pm-label\">Supervisors</p><p class=\"pm-val\">Ryozo Nagamune &amp; Xiaoliang Jin<br>CEL &amp; AMP Labs, UBC</p></div>\n      <div class=\"pm-field\"><p class=\"pm-label\">Contribution</p><div class=\"pm-val\"><ul>\n        <li>Closed-loop thermal strategy for melt pool stabilization</li>\n        <li>Real-time temperature feedback integration</li>\n        <li>Reduction of thermal defects in deposited layers</li>\n        <li>System validated on L-DED experimental platform</li>\n      </ul></div></div>\n    </div>\n    <a href=\"https://zhaolinwei-clark.github.io/mypaper/thesis/UBC_Thesis_ZhaolinWei_8928347__improved.pdf\" class=\"pm-link\" target=\"_blank\">Read Full Thesis ↗</a>",
+    "featured": {
+      "order": 2,
+      "eyebrow": "Additive manufacturing",
+      "heading": "Closing the loop on heat.",
+      "description": "UBC graduate thesis on melt-pool temperature feedback and thermal stabilization in laser-based directed energy deposition.",
+      "source_image": "/images/additivie set up.jpeg",
+      "alt": "Laser directed energy deposition experimental setup.",
+      "image": "/assets/images/selected/lded.webp",
+      "width": 800,
+      "height": 450
+    },
+    "featured_order": 2
+  },
+  {
+    "id": "sensor",
+    "modal_id": "m-sensor",
+    "category": "cat-res",
+    "title": "Self-Powered Flexible Sensor System",
+    "card_title_html": "Self-Powered Flexible Sensor System",
+    "summary_html": "Novel wearable self-powered electromechanical sensors for pulse and muscle signal detection — material synthesis through wearable device integration. Soft Sensors Lab.",
+    "tags": [
+      "CAD",
+      "Sensor",
+      "Test",
+      "Wearable"
+    ],
+    "filter_tags": [
+      "CAD",
+      "Sensor",
+      "Test",
+      "Wearable"
+    ],
+    "card_media_html": "\n          <img src=\"/images/fyp_um.png\" alt=\"Self-powered flexible sensor\">\n        ",
+    "detail_title_html": null,
+    "context_html": "Research · Soft Sensors-Actuators-Robots Lab",
+    "detail_summary_html": "Novel self-powered flexible electromechanical sensors for detecting subtle physiological signals — pulse and muscle movement detection for personal health monitoring. Full pipeline from material synthesis through wearable device integration.",
+    "detail_tags": [
+      "CAD",
+      "Sensor",
+      "Test",
+      "Wearable"
+    ],
+    "detail_media_html": "<div class=\"pmodal-hero\" onclick=\"lbOpen(['/images/fyp_um.png'],0)\">\n    <img src=\"/images/fyp_um.png\" alt=\"Flexible sensor\" style=\"max-height:360px;object-fit:contain;background:#fafafa\">\n    <span class=\"pmodal-zoom-hint\">Click to enlarge</span>\n  </div>",
+    "detail_body_style": "",
+    "detail_html": "<div class=\"pmdiv\"></div>\n    <div class=\"pm-grid\">\n      <div class=\"pm-field\"><p class=\"pm-label\">Supervisor</p><p class=\"pm-val\">Junwen Zhong<br>Soft Sensors-Actuators-Robots Lab</p></div>\n      <div class=\"pm-field\"><p class=\"pm-label\">Full Pipeline</p><p class=\"pm-val\">Material synthesis → electromechanical characterization → signal detection validation → wearable device integration</p></div>\n    </div>\n    <a href=\"https://zhaolinwei-clark.github.io/mypaper/thesis/final-project-report.pdf\" class=\"pm-link\" target=\"_blank\">Read Report ↗</a>"
+  },
+  {
+    "id": "chatter",
+    "modal_id": "m-chatter",
+    "category": "cat-res",
+    "title": "A17050 Slot Milling Chatter Stability & Optimization",
+    "card_title_html": "A17050 Slot Milling Chatter Stability &amp; Optimization",
+    "summary_html": "FRF modeling, Stability Lobe Diagram, critical depth calculation, lead-lag feed drive control, and trapezoidal trajectory planning for CNC aluminum slot milling.",
+    "tags": [
+      "Manufacturing",
+      "CNC",
+      "Control",
+      "MATLAB"
+    ],
+    "filter_tags": [
+      "Manufacturing",
+      "CNC",
+      "Control",
+      "MATLAB"
+    ],
+    "card_media_html": "\n          <img src=\"/images/chatter stability.png\" alt=\"Chatter Stability Diagram\">\n        ",
+    "detail_title_html": null,
+    "context_html": "Research · CNC Machining Dynamics",
+    "detail_summary_html": "Comprehensive chatter stability prediction and CNC machining optimization for A17050 aluminum alloy slot milling — FRF modeling, stability lobe diagram generation, and feed drive control design with trajectory planning.",
+    "detail_tags": [
+      "Manufacturing",
+      "CNC",
+      "Control",
+      "MATLAB"
+    ],
+    "detail_media_html": "",
+    "detail_body_style": "padding-top:32px",
+    "detail_html": "<div class=\"pmdiv\"></div>\n    <div class=\"pm-grid\">\n      <div class=\"pm-field\"><p class=\"pm-label\">Stability Analysis</p><div class=\"pm-val\"><ul>\n        <li>FRF (Frequency Response Function) modeling</li>\n        <li>Stability Lobe Diagram (SLD) generation</li>\n        <li>Critical axial depth of cut calculation</li>\n        <li>Optimal spindle speed selection from SLD</li>\n      </ul></div></div>\n      <div class=\"pm-field\"><p class=\"pm-label\">Control &amp; Trajectory</p><div class=\"pm-val\"><ul>\n        <li>Lead-lag compensator design for feed drive system</li>\n        <li>Trapezoidal velocity trajectory planning</li>\n        <li>Tracking error minimization under cutting forces</li>\n        <li>Stability margin verification for designed controller</li>\n      </ul></div></div>\n    </div>"
+  },
+  {
+    "id": "aloha",
+    "modal_id": "m-aloha",
+    "category": "cat-robo",
+    "title": "Low-Cost Dual-Arm Mobile Robot — AlohaMini",
+    "card_title_html": "Low-Cost Dual-Arm Mobile Robot — AlohaMini <span class=\"badge-wip\">In Progress</span>",
+    "summary_html": "Open-source teleoperated dual-arm manipulator — hardware integration, actuator control implementation, and imitation learning data collection pipeline.",
+    "tags": [
+      "CAD",
+      "3D Printing",
+      "Robotics",
+      "Control"
+    ],
+    "filter_tags": [
+      "CAD",
+      "3D Printing",
+      "Robotics",
+      "Control"
+    ],
+    "card_media_html": "\n          <img src=\"/images/Image_robot_in_progress1.png\" alt=\"AlohaMini robot platform\">\n        ",
+    "detail_title_html": "Low-Cost Dual-Arm Mobile Robot — AlohaMini",
+    "context_html": "Robotics · In Progress",
+    "detail_summary_html": "Building a low-cost teleoperated dual-arm mobile manipulator based on the open-source AlohaMini framework to validate imitation learning algorithms on household manipulation tasks using ACT/Diffusion Policy benchmarks.",
+    "detail_tags": [
+      "CAD",
+      "3D Printing",
+      "Robotics",
+      "Control"
+    ],
+    "detail_media_html": "<div class=\"pmodal-hero\" onclick=\"lbOpen(['/images/Image_robot_in_progress1.png'],0)\">\n    <img src=\"/images/Image_robot_in_progress1.png\" alt=\"AlohaMini platform\" style=\"max-height:380px;object-fit:cover\">\n    <span class=\"pmodal-zoom-hint\">Click to enlarge</span>\n  </div>",
+    "detail_body_style": "",
+    "detail_html": "<div class=\"pmdiv\"></div>\n    <div class=\"pm-grid\">\n      <div class=\"pm-field\"><p class=\"pm-label\">Scope</p><div class=\"pm-val\"><ul>\n        <li>Full hardware assembly and system integration</li>\n        <li>Actuator control firmware implementation</li>\n        <li>Teleoperation interface development</li>\n        <li>Data collection pipeline for imitation learning</li>\n      </ul></div></div>\n      <div class=\"pm-field\"><p class=\"pm-label\">Goal</p><p class=\"pm-val\">Validate imitation learning on household manipulation tasks using ACT/Diffusion Policy on a reproducible low-cost dual-arm hardware platform.</p></div>\n    </div>",
+    "featured": {
+      "order": 6,
+      "eyebrow": "Robotics · In progress",
+      "heading": "A platform for learning by demonstration.",
+      "description": "Hardware assembly, actuator control and teleoperation integration for a low-cost AlohaMini dual-arm mobile manipulator.",
+      "source_image": "/images/Image_robot_in_progress1.png",
+      "alt": "AlohaMini dual-arm robot hardware under development.",
+      "image": "/assets/images/selected/aloha.webp",
+      "width": 740,
+      "height": 668
+    },
+    "featured_order": 6
+  },
+  {
+    "id": "surgical",
+    "modal_id": "m-surgical",
+    "category": "cat-robo",
+    "title": "3D Surgical Instrument & Tissue Tracking",
+    "card_title_html": "3D Surgical Instrument &amp; Tissue Tracking",
+    "summary_html": "Real-time stereo vision tracking — Lucas-Kanade optical flow with Shi-Tomasi corner detection. Sub-pixel accuracy &lt;0.8 px · 15% fewer tracking failures during rapid motion.",
+    "tags": [
+      "Python",
+      "OpenCV",
+      "Robotics",
+      "Control"
+    ],
+    "filter_tags": [
+      "Python",
+      "Control",
+      "Robotics",
+      "OpenCV"
+    ],
+    "card_media_html": "\n          <img src=\"/images/combined.png\" alt=\"Surgical instrument tracking\">\n        ",
+    "detail_title_html": null,
+    "context_html": "Robotics · Academic Project",
+    "detail_summary_html": "Real-time stereo vision system tracking 3D trajectories of surgical instruments and soft tissue — Lucas-Kanade optical flow combined with Shi-Tomasi corner detection, optimized for sub-pixel accuracy under rapid motion.",
+    "detail_tags": [
+      "Python",
+      "OpenCV",
+      "Robotics",
+      "Control"
+    ],
+    "detail_media_html": "<div class=\"pmodal-hero\" onclick=\"lbOpen(['/images/combined.png'],0)\">\n    <img src=\"/images/combined.png\" alt=\"Surgical tracking\" style=\"max-height:360px;object-fit:cover\">\n    <span class=\"pmodal-zoom-hint\">Click to enlarge</span>\n  </div>",
+    "detail_body_style": "",
+    "detail_html": "<div class=\"pmdiv\"></div>\n    <div class=\"pm-grid\">\n      <div class=\"pm-field\"><p class=\"pm-label\">Method</p><div class=\"pm-val\"><ul>\n        <li>Lucas-Kanade optical flow + Shi-Tomasi detection</li>\n        <li>Optimized pyramid layers for rapid-motion robustness</li>\n        <li>Stereo reconstruction for 3D trajectory output</li>\n      </ul></div></div>\n      <div class=\"pm-field\"><p class=\"pm-label\">Results</p><div class=\"pm-val\"><ul>\n        <li>Sub-pixel accuracy: &lt;0.8 px in 3D trajectory</li>\n        <li>15% fewer tracking failures during rapid motion</li>\n        <li>Real-time performance maintained on standard hardware</li>\n      </ul></div></div>\n    </div>",
+    "featured": {
+      "order": 5,
+      "eyebrow": "Robotics & vision",
+      "heading": "Following motion in three dimensions.",
+      "description": "Stereo vision tracking of surgical instruments and soft tissue using Lucas–Kanade optical flow and Shi–Tomasi corner detection.",
+      "source_image": "/images/combined.png",
+      "alt": "Surgical instrument and tissue tracking views with detected features.",
+      "image": "/assets/images/selected/surgical.webp",
+      "width": 1200,
+      "height": 511
+    },
+    "featured_order": 5
+  },
+  {
+    "id": "heater",
+    "modal_id": "m-heater",
+    "category": "cat-emb",
+    "title": "Arduino Smart Cup Heater",
+    "card_title_html": "Arduino Smart Cup Heater",
+    "summary_html": "Closed-loop temperature control with calibrated NTC sensor, user-selectable 10–80°C setpoint via button interface, and real-time LCD feedback.",
+    "tags": [
+      "Embedded",
+      "Arduino",
+      "Control",
+      "Test"
+    ],
+    "filter_tags": [
+      "Embedded",
+      "Control",
+      "Test",
+      "Arduino"
+    ],
+    "card_media_html": "\n          <div class=\"card-img-split\">\n            <img src=\"/images/Poster Assembly Picture.PNG\" alt=\"Assembly view\">\n            <img src=\"/images/Poster Explorsion Veiw.PNG\" alt=\"Exploded view\">\n          </div>\n        ",
+    "detail_title_html": null,
+    "context_html": "Embedded Systems · Hardware Project",
+    "detail_summary_html": "Arduino-controlled closed-loop cup heater with user-selectable 10–80°C setpoint via button interface, calibrated NTC thermistor sensor, and real-time LCD temperature feedback.",
+    "detail_tags": [
+      "Embedded",
+      "Arduino",
+      "Control",
+      "Test"
+    ],
+    "detail_media_html": "<div class=\"pmodal-hero\" onclick=\"lbOpen(['/images/Poster Assembly Picture.PNG','/images/Poster Explorsion Veiw.PNG'],0)\">\n    <div class=\"pmodal-hero-split\">\n      <img src=\"/images/Poster Assembly Picture.PNG\" alt=\"Assembly view\">\n      <img src=\"/images/Poster Explorsion Veiw.PNG\" alt=\"Exploded view\">\n    </div>\n    <span class=\"pmodal-zoom-hint\">Click to enlarge</span>\n  </div>",
+    "detail_body_style": "",
+    "detail_html": "<div class=\"pmdiv\"></div>\n    <div class=\"pm-grid\">\n      <div class=\"pm-field\"><p class=\"pm-label\">Hardware</p><div class=\"pm-val\"><ul>\n        <li>Arduino microcontroller</li>\n        <li>NTC thermistor — calibrated vs water reference</li>\n        <li>LCD display — real-time setpoint and temperature</li>\n        <li>Button interface — setpoint increment/decrement</li>\n      </ul></div></div>\n      <div class=\"pm-field\"><p class=\"pm-label\">Key Engineering Work</p><div class=\"pm-val\"><ul>\n        <li>Sensor offset calibration vs actual water temperature</li>\n        <li>Closed-loop control to user-defined setpoint</li>\n        <li>Mechanical enclosure design and integration</li>\n        <li>Safety cutoff at temperature limit</li>\n      </ul></div></div>\n    </div>"
+  },
+  {
+    "id": "emb2",
+    "modal_id": "m-emb2",
+    "category": "cat-emb",
+    "title": "Embedded Sensor Interface — Coming Soon",
+    "card_title_html": "Embedded Sensor Interface — Coming Soon",
+    "summary_html": "Embedded firmware development project — sensor data acquisition and real-time processing on microcontroller platform.",
+    "tags": [
+      "Embedded",
+      "Python"
+    ],
+    "filter_tags": [
+      "Embedded",
+      "Python"
+    ],
+    "card_media_html": "\n          <div class=\"card-img-ph\"><!-- INSERT IMAGE HERE -->\n            <svg width=\"36\" height=\"36\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#bbb\" stroke-width=\"1.5\"><rect x=\"5\" y=\"2\" width=\"14\" height=\"20\" rx=\"2\"/><path d=\"M12 18h.01\"/></svg>\n            <span>Image Pending</span>\n          </div>\n        ",
+    "detail_title_html": "Embedded Sensor Interface",
+    "context_html": "Embedded Systems · Coming Soon",
+    "detail_summary_html": "Embedded firmware development for sensor data acquisition and real-time processing on microcontroller platform. Details to be added.",
+    "detail_tags": [
+      "Embedded",
+      "Python"
+    ],
+    "detail_media_html": "",
+    "detail_body_style": "padding-top:32px",
+    "detail_html": ""
+  }
+]
