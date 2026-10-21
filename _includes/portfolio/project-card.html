@@ -1,0 +1,10 @@
+{% assign item = include.project %}
+<div class="card" data-tags="{{ item.filter_tags | join: ',' | escape }}" onclick="openModal('{{ item.modal_id }}')">
+  <div class="card-img">{{ item.card_media_html }}</div>
+  <div class="card-body">
+    <p class="card-title">{{ item.card_title_html }}</p>
+    <p class="card-short">{{ item.summary_html }}</p>
+    <div class="card-tags">{% for tag in item.tags %}<span class="tag">{{ tag | escape }}</span>{% endfor %}</div>
+    <button class="card-btn" aria-haspopup="dialog" aria-controls="{{ item.modal_id }}" aria-label="View details: {{ item.title | escape }}">View Details <svg width="11" height="11" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M2 6h8M6 2l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+  </div>
+</div>

@@ -1,0 +1,14 @@
+{% assign item = include.project %}
+<div class="pmodal-ov" id="{{ item.modal_id }}" onclick="closeOut(event,'{{ item.modal_id }}')" role="dialog" aria-modal="true" aria-labelledby="{{ item.modal_id }}-title" tabindex="-1" inert>
+  <div class="pmodal-box">
+    <div class="pmodal-close-row"><button class="pmodal-x" onclick="closeM('{{ item.modal_id }}')" aria-label="Close project details">✕</button></div>
+    {{ item.detail_media_html }}
+    <div class="pmodal-body"{% if item.detail_body_style != '' %} style="{{ item.detail_body_style }}"{% endif %}>
+      <p class="pmodal-ey">{{ item.context_html }}</p>
+      <h2 class="pmodal-title" id="{{ item.modal_id }}-title">{{ item.detail_title_html | default: item.card_title_html }}</h2>
+      <p class="pmodal-sub">{{ item.detail_summary_html }}</p>
+      <div class="pmodal-tags">{% for tag in item.detail_tags %}<span class="tag">{{ tag | escape }}</span>{% endfor %}</div>
+      {{ item.detail_html }}
+    </div>
+  </div>
+</div>

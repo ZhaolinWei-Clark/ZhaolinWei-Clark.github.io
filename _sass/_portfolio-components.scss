@@ -1,0 +1,11 @@
+.pf-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 24px; }
+.pf-home .pf-button { display: inline-flex; align-items: center; min-height: 46px; padding: 10px 20px; border: 1px solid var(--pf-text); border-radius: var(--pf-radius); color: var(--pf-text); font-size: 14px; font-weight: 600; text-decoration: none; transition: background var(--pf-duration), border-color var(--pf-duration); }
+.pf-home .pf-button--primary { background: var(--pf-text); color: #fff; }
+.pf-home .pf-button--primary:hover { background: var(--pf-accent); border-color: var(--pf-accent); }
+.pf-home .pf-button--secondary:hover { background: var(--pf-bg-alt); }
+.pf-home .pf-text-link { display: inline-flex; align-items: center; gap: 10px; min-height: 44px; font-size: 14px; font-weight: 600; text-decoration: none; text-underline-offset: 5px; }
+.pf-home .pf-text-link:hover { text-decoration: underline; }
+.pf-section-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 20px; padding-bottom: 24px; border-bottom: 1px solid var(--pf-border); }
+.pf-section-heading h2 { font-size: clamp(28px, 3vw, 36px); line-height: 1.2; font-weight: 600; letter-spacing: -.035em; }
+.pf-section-heading .pf-eyebrow { margin-bottom: 10px; }
+@media (max-width: 600px) { .pf-section-heading { align-items: flex-start; flex-direction: column; gap: 8px; } }

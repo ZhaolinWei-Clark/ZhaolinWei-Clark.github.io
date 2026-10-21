@@ -1,0 +1,24 @@
+/* One sans-serif family; no external font requests. */
+$sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+$global-font-family: $sans-serif;
+$header-font-family: $sans-serif;
+$caption-font-family: $sans-serif;
+:root {
+  --pf-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  --pf-bg: #fff;
+  --pf-bg-alt: #f5f6f7;
+  --pf-text: #17212b;
+  --pf-secondary: #526170;
+  --pf-subtle: #626e79;
+  --pf-accent: #1d4ed8;
+  --pf-border: #dce2e8;
+  --pf-content: 1120px;
+  --pf-reading: 65ch;
+  --pf-section: 88px;
+  --pf-gutter: 32px;
+  --pf-radius: 6px;
+  --pf-duration: 160ms;
+}
+@media (max-width: 767px) {
+  :root { --pf-section: 56px; --pf-gutter: 20px; }
+}

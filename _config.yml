@@ -16,7 +16,7 @@
 title: Zhaolin Wei
 email: ziulam1005@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Mechatronics Engineer (E.I.T.) portfolio focusing on robotics, automation, and design.
+  Mechatronics & Controls Engineer portfolio spanning mechanical systems, industrial automation, simulation, robotics, and AI.
 github_username: ZhaolinWei-Clark
 minimal_mistakes_skin: default
 search: true
@@ -32,6 +32,12 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+
+# Engineering notes are kept in the repository, outside the public site.
+exclude:
+  - docs
+  - Gemfile
+  - Gemfile.lock
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -62,7 +68,7 @@ author:
   # 2. 第二个 div 用于显示技术栈
   bio    : >-
     <div style="text-align: justify; text-justify: inter-word; margin-bottom: 15px;">
-      Graduate Student at UBC, specializing in Mechatronics Design. Passionate about robotics, AI, and innovative engineering solutions.
+      Mechatronics &amp; Controls Engineer. Currently a Control Technician at FPS Food Process Solutions in Richmond, BC.
     </div>
 
     <div style="margin-top: 15px; border-top: 1px solid #e0e0e0; padding-top: 15px; text-align: left;">
@@ -98,9 +104,8 @@ author:
       </div>
 
       <div>
-        <strong style="color: #990000; font-size: 0.8em; text-transform: uppercase;">🎓 Credentials</strong><br>
-        <span style="font-size: 0.75em; background: #fff5f5; color: #990000; padding: 2px 5px; border-radius: 3px; border: 1px solid #ffcccc; display: inline-block; margin: 1px;">E.I.T. (EGBC)</span>
-        <span style="font-size: 0.75em; background: #f3f3f3; padding: 2px 5px; border-radius: 3px; border: 1px solid #ddd; display: inline-block; margin: 1px;">UBC Master's</span>
+        <strong style="font-size: 0.8em; text-transform: uppercase;">Credentials</strong><br>
+        <span style="font-size: 0.75em;">E.I.T. · CSWP · CMfgT · Six Sigma Green Belt · M.Eng&nbsp;UBC</span>
       </div>
     </div>
   links:

@@ -1,19 +1,9 @@
 ---
 ---
 
+@import "portfolio-tokens";
 @import "minimal-mistakes";
-
-/* 强制宽度覆盖 */
-
-.layout--single .page__content {
-  max-width: 1800px !important;
-  width: 100% !important;
-}
-
-.page__inner-wrap {
-  max-width: 1700px !important;
-}
-
-.page {
-  max-width: 1900px !important;
-}
+@import "portfolio-base";
+@import "portfolio-components";
+@import "portfolio-home";
+@import "portfolio-projects";

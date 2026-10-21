@@ -1,0 +1,26 @@
+body { font-family: var(--pf-font); }
+.masthead { border-bottom-color: var(--pf-border); }
+.masthead__inner-wrap { max-width: var(--pf-content); padding-inline: var(--pf-gutter); }
+.greedy-nav { font-family: var(--pf-font); background: var(--pf-bg); }
+.greedy-nav a { color: var(--pf-text); }
+.greedy-nav .visible-links a::before { background: var(--pf-accent); }
+.greedy-nav a[aria-current="page"] { color: var(--pf-accent); }
+:where(a, button, [tabindex]):focus-visible { outline: 2px solid var(--pf-accent); outline-offset: 5px; }
+.pf-home, .pf-home *, .portfolio-projects, .portfolio-projects * { box-sizing: border-box; }
+.pf-home { max-width: var(--pf-content); margin-inline: auto; padding-inline: var(--pf-gutter); font: 400 17px/1.65 var(--pf-font); color: var(--pf-text); -webkit-font-smoothing: antialiased; }
+.pf-home :where(h1, h2, h3, p, figure) { margin: 0; }
+.pf-home p, .pf-home figure { margin: 0; }
+.pf-home :where(h1, h2, h3) { color: var(--pf-text); font-family: var(--pf-font); }
+.pf-home h2 { border-bottom: 0; padding-bottom: 0; }
+.pf-home :where(a) { color: var(--pf-accent); }
+.pf-home :where(section, article, footer) { scroll-margin-top: 40px; }
+.pf-home p { max-width: var(--pf-reading); }
+.pf-home .pf-eyebrow { font-size: 12px; font-weight: 600; line-height: 1.5; letter-spacing: .09em; text-transform: uppercase; color: var(--pf-secondary); }
+/* Retain archive widths until its dedicated design review. */
+.layout--single .page__content { max-width: 1800px; width: 100%; }
+.page__inner-wrap { max-width: 1700px; }
+.page { max-width: 1900px; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto !important; }
+  .pf-home *, .portfolio-projects *, .greedy-nav * { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}
